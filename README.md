@@ -36,3 +36,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [Aw3ra](https://github.com/aw3ra) | [0xawera](https://twitter.com/0xawera) | AWRAkL6PjtfKFsAEwrsJ7gQoVztThTwj3Uh4tDnLNQhN | Python, Javascript, Typescript, React, Svelte | Yes
 [harsh4786](https://github.com/harsh4786)|[harsh4786](https://twitter.com/harsh4786) | 8jXEXeDfGjX8LSfHvSKikCcb87CwnYuyVjZQYotvXmKu | Rust, Python | No
 [yurii-a](https://github.com/yurii-a) | [yurii_an](https://twitter.com/yurii_an) | 2heLjiqm3Yor2gd1PQyAUKmnLQbU8wa1VYcAwR2nNZio | Android, Java, Javascript, React Native, Rust, R | Yes
+[0xlarry](https://github.com/0xlarry) | [0xlarry8](https://twitter.com/0xlarry8) | EYcJb2fGccgG8ChVrdUzC9Q6RfFEgbVfixCpQ4tctrzT | Rust, NodeJs, Javascript, TypeScript, React, NextJs | Yes
