@@ -28,3 +28,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [Product, DevRel](https://github.com/MykolaHavryliak) | [havryliak](https://twitter.com/nick_havryliak) | 5dnq7sWrQx9pAMkY1w2bsvw9F95idS6CS6x66w4bqh8L | Rust, Typescript | No 
 [kishore](https://github.com/saikishore222) | [kishore](https://twitter.com/chsk_kishore)  | 9jNvLRB5S9Np6Gh32ZGdq86zTFLkinjSkge6g5TUPkwE | Rust, Typescript,React,Flutter| Yes
 [lunar-fire](https://github.com/lunar-fire) | [0xCasual](https://twitter.com/0xCasual) | 39uQp1eGmXJnppNgfVkriQvpzCNjnkSagnWAuRUsQeZs | Python, Golang, Typescript, Rust, React, Svelte | No
+[Aw3ra](https://github.com/aw3ra) | [0xawera](https://twitter.com/0xawera) | AWRAkL6PjtfKFsAEwrsJ7gQoVztThTwj3Uh4tDnLNQhN | Python, Javascript, Typescript, React, Svelte | Yes
