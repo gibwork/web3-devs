@@ -23,3 +23,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [JuanMarchetto](https://github.com/JuanMarchetto) | [marchedev](https://twitter.com/marchedev) | 41GgC1qWFSVJJgn1M7K34X4bY2bd9WTyy6J4iYpa3YCE | Rust, Typescript | Yes
 [0xbanana](https://github.com/echohtp) | [0xbanana](https://twitter.com/0xbanana) | 232PpcrPc6Kz7geafvbRzt5HnHP4kX88yvzUCN69WXQC | Typescript | No
 [dwrx](https://github.com/dwrx) | [dxrxdy](https://twitter.com/dxrxdy) | BQomcdkAWszTSZ4K35gcSDh3bSkUZaFvF9k8xdC3n5wB | Rust, Node.js, Typescript, React | No
+[web3_analyst](https://github.com/jhuhnke) | [web3_analyst](https://twitter.com/web3_analyst) | EJXeG1MjjKr6dCkvdZfdFr4EtYo7XCciMKh8oynLTQis | Rust, Typescript, React, Python, SQL | Yes
