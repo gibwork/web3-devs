@@ -16,7 +16,7 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [ASCorreia](https://github.com/ASCorreia) | [ASCorreia](https://twitter.com/andrescorreia) | 6eGKgDhFAaLYkxoDMyx2NU4RyrSKfCXdRmqtjT7zodxQ | Rust, Typescript | No
 [hansay](https://github.com/hansay) | [plazmatamadas](https://twitter.com/plazmatamadas) | BDdeBEr7tZ8tsAgfjadysN6poRpRM1DZGiaQ9LquhJVe | Rust (Anchor), Typescript, React, PHP | Yes  
 [mikejhale](https://github.com/mikejhale) | [mikehale](https://twitter.com/mikehale) | 3JnfMbmTtQQd6bdQ6ahNKYKdq4ujgMNbGaQpWZwQYqWh | Rust, Typescript | Yes
-[XanderRey](https://github.com/XanderRey) | [RktCrypto](https://twitter.com/RktCrypto) | 94dMpPqpQj3vBLMM88EC69D4SS5EeS972eeNyLvBwfUA | Python, C# | Yes
+[XanderRey](https://github.com/XanderRey) | [RktCrypto](https://twitter.com/RktCrypto) | 94dMpPqpQj3vBLMM88EC69D4SS5EeS972eeNyLvBwfUA | Python, C#, C++ | Yes
 [King-Del-ErnestO](https://github.com/King-Del-ErnestO) | [Akubueze Del Ernest](https://twitter.com/AkubuezeErnest) | AL5dtXHrti169fWYsjh1G2yDUUzqkmkFHz5BZvMcqjw9 | Python, Solidity, JS | Yes
 [genmoe](https://github.com/genmoe) | [GenMode_](https://x.com/GenMode_) | 4STmnWqgndnQreDtBV4o1SB9FN7zj4CBT4FHLPquj9V7 | C++, Rust (Anchor), Typescript, React, JavaScript, CSS, PHP | No
 [dmshvetsov](https://github.com/dmshvetsov) | [dmshvetsov](https://twitter.com/dmshvetsov) | CywE9TBWYaTKiFvrrDgFzJYDBHg9VL2pCEVin2qhSDZM | Typescript, React, Node.js, Rust, Move, UI/UX, Product | Yes
