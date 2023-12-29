@@ -1,4 +1,6 @@
-**Contributors building in Web3.**
+####  Pull Request must be submitted through the bounty: https://app.gib.work/r/WcRn5jGP/web3-devs
+
+## **Contributors building in Web3.**
 <p>A curated list of active contributors who are collectively shaping the future landscape of decentralized applications and innovative blockchain solutions.. </p> 
 
 <p>Include a wallet that you're willing to share publicly and can receive airdrops.</p>
@@ -33,3 +35,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [SoSoDolo](https://github.com/sosodolo) | [Sid](https://twitter.com/so_so_dolo) | Fs7chiMUgnKYY4mgPi95GovagxSYRYJkmWiFtL5dKCNJ | Typescript, Node, React, SolidJS, GO, UI/UX | Yes
 [Aw3ra](https://github.com/aw3ra) | [0xawera](https://twitter.com/0xawera) | AWRAkL6PjtfKFsAEwrsJ7gQoVztThTwj3Uh4tDnLNQhN | Python, Javascript, Typescript, React, Svelte | Yes
 [harsh4786](https://github.com/harsh4786)|[harsh4786](https://twitter.com/harsh4786) | 8jXEXeDfGjX8LSfHvSKikCcb87CwnYuyVjZQYotvXmKu | Rust, Python | No
+[yurii-a](https://github.com/yurii-a) | [yurii_an](https://twitter.com/yurii_an) | 2heLjiqm3Yor2gd1PQyAUKmnLQbU8wa1VYcAwR2nNZio | Android, Java, Javascript, React Native, Rust, R | Yes
