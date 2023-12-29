@@ -1,4 +1,6 @@
-[GIB Open Source](https://drive.google.com/uc?export=download&id=1UASiBV0S5qUyimJIm5uV5P5XnJyJOavY)
+[GIB Open Source Highlights](https://gibwork.medium.com/open-source-highlights-how-developers-showcase-work-using-gibwork-abeb4af16953)
+
+Follow us on Twitter [@gib_work](https://twitter.com/gib_work)
 
 **Contributors building in Web3.**
 <p>A curated list of active contributors who are collectively shaping the future landscape of decentralized applications and innovative blockchain solutions.. </p> 
