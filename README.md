@@ -39,3 +39,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [yurii-a](https://github.com/yurii-a) | [yurii_an](https://twitter.com/yurii_an) | 2heLjiqm3Yor2gd1PQyAUKmnLQbU8wa1VYcAwR2nNZio | Android, Java, Javascript, React Native, Rust, R | Yes
 [0xlarry](https://github.com/0xlarry) | [0xlarry8](https://twitter.com/0xlarry8) | EYcJb2fGccgG8ChVrdUzC9Q6RfFEgbVfixCpQ4tctrzT | Rust, NodeJs, Javascript, TypeScript, React, NextJs | Yes
 [Nauriculus](https://github.com/nauriculus) | [Nauriculus](https://twitter.com/nauriculus) | 85Xnyyt2VEse2CZkwGkPsLdKBaCJh1JQjBvBRh1YHVNH | Typescript, Javascript, React (Native), Java, NextJs, Node.js| Yes
+[joeymeere](https://github.com/joeymeere) | [joeymeere](https://twitter.com/joeymeere) | 7YYZE815j6bE3C1tgiAXKWh4FGwUagpxV9oUw6dgE1mU | Rust, Typescript, React, Next.js, Node.js, HTMX, C++, Brainf**k | No
