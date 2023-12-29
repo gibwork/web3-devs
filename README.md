@@ -5,6 +5,7 @@
 
 Github | Twitter | Wallet Address | Languages | Available for Hire 
 --- | --- | --- | --- | ---
+[freesoldev](https://github.com/FreeSolDev) | [FreeSolDev](https://twitter.com/FreeSolGamesDev) | 7JcUxRFYSmy2KE5ESqewAae2STTLgU5KzyVZo657iFU5 | JS,Rust,html,css | No
 [anthonyliriano](https://github.com/anthonyliriano) | [0xNullRef](https://twitter.com/0xNullRef) | 8QhnBerkJRyzyEe6qNudWPEAoGFHvE7V2xTPJxDyNdkh | Rust, Typescript | No
 [0xSparkss](https://github.com/0xSparkss) | [0xSparkss](https://twitter.com/0xSparkss) | 3odUndcmsGUKknsrXgS1QRrWCXSgTrs5EgkJWvNuFK1Z | Rust, Typescript | No
 [deanmlittle](https://github.com/deanmlittle) | [deanmlittle](https://twitter.com/deanmlittle) | GLtaTaYiTQrgz411iPJD79rsoee59HhEy18rtRdrhEUJ | Rust, Typescript | No
