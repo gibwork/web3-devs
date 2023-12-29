@@ -30,3 +30,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [lunar-fire](https://github.com/lunar-fire) | [0xCasual](https://twitter.com/0xCasual) | 39uQp1eGmXJnppNgfVkriQvpzCNjnkSagnWAuRUsQeZs | Python, Golang, Typescript, Rust, React, Svelte | No
 [thearyanag](https://github.com/thearyanag) | [0xaryan](https://twitter.com/_0xaryan) | 4vDHQPxjLsCWcAUCaWP8wqLFvv35FTCQZFf31nHCCCkF | Python, Typescript, Rust | Yes
 [sagar-gajare](http://github.com/sagargajare/) | [SagarGajare20](https://twitter.com/SagarGajare20) | DQwpjzX73PHmQyXAHswc6bebove82ECRsPFD2wVC6fkb | Python, Rust, Typescript, Javascript, React, Nextjs, CSS | Yes
+[SoSoDolo](https://github.com/sosodolo) | [Sid](https://twitter.com/so_so_dolo) | Fs7chiMUgnKYY4mgPi95GovagxSYRYJkmWiFtL5dKCNJ | Typescript, Node, React, SolidJS, GO, UI/UX | Yes
