@@ -31,3 +31,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [thearyanag](https://github.com/thearyanag) | [0xaryan](https://twitter.com/_0xaryan) | 4vDHQPxjLsCWcAUCaWP8wqLFvv35FTCQZFf31nHCCCkF | Python, Typescript, Rust | Yes
 [sagar-gajare](http://github.com/sagargajare/) | [SagarGajare20](https://twitter.com/SagarGajare20) | DQwpjzX73PHmQyXAHswc6bebove82ECRsPFD2wVC6fkb | Python, Rust, Typescript, Javascript, React, Nextjs, CSS | Yes
 [SoSoDolo](https://github.com/sosodolo) | [Sid](https://twitter.com/so_so_dolo) | Fs7chiMUgnKYY4mgPi95GovagxSYRYJkmWiFtL5dKCNJ | Typescript, Node, React, SolidJS, GO, UI/UX | Yes
+[Aw3ra](https://github.com/aw3ra) | [0xawera](https://twitter.com/0xawera) | AWRAkL6PjtfKFsAEwrsJ7gQoVztThTwj3Uh4tDnLNQhN | Python, Javascript, Typescript, React, Svelte | Yes
