@@ -51,3 +51,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [bgreni](https://github.com/bgreni) | [eggsquad](https://twitter.com/eggsquad_dev) | FpscJFipKBoAFXjhXfrruWyhsoNFisu8H8kLDdw1k8yH | Rust, C++, Python, Typescript, Golang | Yes
 [KADY](https://github.com/kady-z) | [KADY](https://twitter.com/Ayush_K_D) | 0xa35d0f5EF6787e15C34968136680d3d47CdBD3b1 | Typescript, Javascript, Solidity, Python, NextJs, Node.js| No
 [Harshkumar62367](https://github.com/Harshkumar62367) | [Spectre_harsh07](https://twitter.com/Spectre_harsh07) | D2JQTTHgZnF7Bv4Tqd77N97UUVbh42F5G3mvjz6Lebxv | Javascript, Solidity, C++, NodeJs, ReactJs | Yes
+[kaleb-rupe](https://github.com/kaleb-rupe) | [Mightie-Mags](https://twitter.com/mightie-mags) | D2JQTTHgZnF7Bv4Tqd77N97UUVbh42F5G3mvjz6Lebxv | Javascript, NodeJs, ReactJs | Yes
