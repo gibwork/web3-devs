@@ -65,3 +65,5 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [sunguru98](https://github.com/sunguru98) | [Sundeep Charan Ramkumar](https://twitter.com/SundeepCharan) | 81sWMLg1EgYps3nMwyeSW1JfjKgFqkGYPP85vTnkFzRn | Typescript, Rust, React, JavaScript, Node.js, Next.js | Yes
 [Solomon Foskaay](https://github.com/SolomonFoskaay) | [SolomonFoskaay](https://twitter.com/SolomonFoskaay) | EYe982UvxM1T1Kvjg83mzFviWGcgFWtJ5aQSogpQmXGR | Creates Free Web3 Developer Courses on Vanilla Solidity, Solang Solidity, Javascript, TypeScript, NextJS, NodeJs, Reactjs, Web3js, Etherjs, Rust, Cadence | No
 [armariya](https://github.com/qapquiz) | [armariya](https://twitter.com/armariya) | 8Dk7dhvqnfLahRxMBYU2Q4v9f7DNY8Se9GYjqjyyiKJZ | Typescript, Javascript, Shell script, Rust, Golang, Svelte | No
+[MarkSackerberg](https://github.com/MarkSackerberg) | [MarkSackerberg](https://twitter.com/MarkSackerberg) | 8Dk7dhvqnfLahRxMBYU2Q4v9f7DNY8Se9GYjqjyyiKJZ | Metaplex, NFT, Umi, Kinobi, Candy Machine, Typescript, Javascript, Next.js, scripting, Shell | Depends
+
