@@ -59,3 +59,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [jim4067](https://github.com/jim4067) | [jimii_47](https://twitter.com/jimii_47) | 7wdrwB6L3RriG8w3yGkjmpTGLQsRb4XZtjJwKcJ4naYE | Rust, TypeScript, GCP | No
 [Manice18](https://github.com/Manice18) | [Manish Saha](https://twitter.com/ManishS79882777) | QFzjFQe4f4XadfX3256B49ifRDjwz3UrzHbGiPeC8vW | NextJS, Typescript, Javascript, NodeJS, Python, Java, Rust | Yes
 [Dudeiebot](https://github.com/dudeiebot) | [crecia_cell](https://twitter.com/crecia_cell) | DUdEoZxu9bx62SeYQyHNSqsT7VXCK3G2CgJfCfcRV7fN | Go,TypeScript,Rust, Python | Yes
+[ignaviaa](https://github.com/ignaviaa) | [Ignaviaa](https://twitter.com/ignaviaa_01) | EyigagjE2nLxWBdzBBPCxrD6Bc1RGQWMP48ewbgfBjqy | Figma, Javascript, ReactJs, NextJs | Yes
