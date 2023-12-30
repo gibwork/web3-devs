@@ -44,3 +44,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [akshatcoder-hash](https://github.com/akshatcoder-hash) | [akshatwts](https://twitter.com/akshatwts) | Ey85NUDkZQkZRPP48TihWp5CdrnL6rvG2fdpLF8cK2wB | Typescript, Javascript, Rust, NextJs, Python, Node.js| Yes
 [druspencer](https://github.com/druspencer) | [onChainDru](https://twitter.com/onchaindru)| DNE9uCy7a7D8Dua9ovNc8ebkAuhAbbpY4usPdhmaexBG | Python, Typescript, Node.js, Rust (Anchor)| No
 [metasal](https://github.com/metasal1) | [metasal_](https://twitter.com/metasal_) | sa1im2Zd2C7utCAyzAmUFrPYY26qrNsPbhfNY6BzLQF | Javascript, React, ReactNative, NextJS | Yes
+[dcj](https://github.com/danielcolinjames) | [dcj](https://twitter.com/dcwj) | GkanAV7se4RnAg8Z5wP1nJSKYirzyzdLHadBS3uo2qN2 | React, React Native, TypeScript, JavaScript, Next.js, TailwindCSS, Figma | Yes
