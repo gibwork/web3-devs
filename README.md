@@ -55,4 +55,6 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [arghya-dutta](https://github.com/NemesisLW) | [Arghyad18](https://twitter.com/Arghyad18) | DneYJCifRHcuZf2SJDw9yuLy8wdT5WvT1ZDhGXtYhppV | Javascript,TypeScript,NextJS, NodeJs, React, ReactNative, Solidity, Python | Yes
 [Nero](https://github.com/AdwitM) | [nero__sensei](https://twitter.com/nero__sensei) | EZi7RnN1BDjXsCBo7tcZiR3KDJfVx1EovawrXoWNFVRv | Javascript, TypeScript, Solidity, Python | No
 [sahilpabale](https://github.com/sahilpabale) | [sahilpabale](https://twitter.com/sahilpabale) | 6ZvF21AN98RkNsafkgoNjq6qz81v9CwfaELLj3HfdbTz | Javascript,TypeScript, Rust,Node.js,Backend,Solana,API,Anchor | Yes
+[beeman](https://github.com/beeman) | [beeman_nl](https://twitter.com/beeman_nl) | Dd1JSwojUsptwFa97A3WRZU1SijCWYo9Qa3xLxT8yzb7 | TypeScript, JavaScript, Nest.js, Node.js, Prisma, GraphQL, Docker, Ops, Angular, React, React Native, Rust | No
+
 
