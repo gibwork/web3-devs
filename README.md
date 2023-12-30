@@ -53,5 +53,9 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [Harshkumar62367](https://github.com/Harshkumar62367) | [Spectre_harsh07](https://twitter.com/Spectre_harsh07) | D2JQTTHgZnF7Bv4Tqd77N97UUVbh42F5G3mvjz6Lebxv | Javascript, Solidity, C++, NodeJs, ReactJs | Yes
 [kaleb-rupe](https://github.com/kaleb-rupe) | [Mightie-Mags](https://twitter.com/mightie-mags) | D2JQTTHgZnF7Bv4Tqd77N97UUVbh42F5G3mvjz6Lebxv | Javascript, NodeJs, ReactJs | Yes
 [arghya-dutta](https://github.com/NemesisLW) | [Arghyad18](https://twitter.com/Arghyad18) | DneYJCifRHcuZf2SJDw9yuLy8wdT5WvT1ZDhGXtYhppV | Javascript,TypeScript,NextJS, NodeJs, React, ReactNative, Solidity, Python | Yes
+[Nero](https://github.com/AdwitM) | [nero__sensei](https://twitter.com/nero__sensei) | EZi7RnN1BDjXsCBo7tcZiR3KDJfVx1EovawrXoWNFVRv | Javascript, TypeScript, Solidity, Python | No
+[sahilpabale](https://github.com/sahilpabale) | [sahilpabale](https://twitter.com/sahilpabale) | 6ZvF21AN98RkNsafkgoNjq6qz81v9CwfaELLj3HfdbTz | Javascript,TypeScript, Rust,Node.js,Backend,Solana,API,Anchor | Yes
+[beeman](https://github.com/beeman) | [beeman_nl](https://twitter.com/beeman_nl) | Dd1JSwojUsptwFa97A3WRZU1SijCWYo9Qa3xLxT8yzb7 | TypeScript, JavaScript, Nest.js, Node.js, Prisma, GraphQL, Docker, Ops, Angular, React, React Native, Rust | No
+[jim4067](https://github.com/jim4067) | [jimii_47](https://twitter.com/jimii_47) | 7wdrwB6L3RriG8w3yGkjmpTGLQsRb4XZtjJwKcJ4naYE | Rust, TypeScript, GCP | No
 [Manice18](https://github.com/Manice18) | [Manish Saha](https://twitter.com/ManishS79882777) | QFzjFQe4f4XadfX3256B49ifRDjwz3UrzHbGiPeC8vW | NextJS, Typescript, Javascript, NodeJS, Python, Java, Rust | Yes
 
