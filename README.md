@@ -53,4 +53,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [Harshkumar62367](https://github.com/Harshkumar62367) | [Spectre_harsh07](https://twitter.com/Spectre_harsh07) | D2JQTTHgZnF7Bv4Tqd77N97UUVbh42F5G3mvjz6Lebxv | Javascript, Solidity, C++, NodeJs, ReactJs | Yes
 [kaleb-rupe](https://github.com/kaleb-rupe) | [Mightie-Mags](https://twitter.com/mightie-mags) | D2JQTTHgZnF7Bv4Tqd77N97UUVbh42F5G3mvjz6Lebxv | Javascript, NodeJs, ReactJs | Yes
 [arghya-dutta](https://github.com/NemesisLW) | [Arghyad18](https://twitter.com/Arghyad18) | DneYJCifRHcuZf2SJDw9yuLy8wdT5WvT1ZDhGXtYhppV | Javascript,TypeScript,NextJS, NodeJs, React, ReactNative, Solidity, Python | Yes
-
+[Asrivast](https://github.com/Asrivast1) | [AskandSriv56638](https://x.com/AskandSriv56638) | 8wgG99KKxRMDTkST4x4hYWqFH7yeWkm2dhvD8MR8gzoB | Java, Python, NodeJs | Yes
