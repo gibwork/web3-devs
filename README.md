@@ -56,5 +56,5 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [Nero](https://github.com/AdwitM) | [nero__sensei](https://twitter.com/nero__sensei) | EZi7RnN1BDjXsCBo7tcZiR3KDJfVx1EovawrXoWNFVRv | Javascript, TypeScript, Solidity, Python | No
 [sahilpabale](https://github.com/sahilpabale) | [sahilpabale](https://twitter.com/sahilpabale) | 6ZvF21AN98RkNsafkgoNjq6qz81v9CwfaELLj3HfdbTz | Javascript,TypeScript, Rust,Node.js,Backend,Solana,API,Anchor | Yes
 [beeman](https://github.com/beeman) | [beeman_nl](https://twitter.com/beeman_nl) | Dd1JSwojUsptwFa97A3WRZU1SijCWYo9Qa3xLxT8yzb7 | TypeScript, JavaScript, Nest.js, Node.js, Prisma, GraphQL, Docker, Ops, Angular, React, React Native, Rust | No
-
+[jim4067](https://github.com/jim4067) | [jimii_47](https://twitter.com/jimii_47) | 7wdrwB6L3RriG8w3yGkjmpTGLQsRb4XZtjJwKcJ4naYE | Rust, TypeScript, GCP | No
 
