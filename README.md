@@ -40,6 +40,7 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [0xlarry](https://github.com/0xlarry) | [0xlarry8](https://twitter.com/0xlarry8) | EYcJb2fGccgG8ChVrdUzC9Q6RfFEgbVfixCpQ4tctrzT | Rust, NodeJs, Javascript, TypeScript, React, NextJs | Yes
 [Nauriculus](https://github.com/nauriculus) | [Nauriculus](https://twitter.com/nauriculus) | 85Xnyyt2VEse2CZkwGkPsLdKBaCJh1JQjBvBRh1YHVNH | Typescript, Javascript, React (Native), Java, NextJs, Node.js| Yes
 [Shriraj](https://github.com/shrirajpawar4) | [Shriraj](https://twitter.com/shrirajpawar04) | Gxw5V1fAgMdjmkQHunTNkMhyPPpTmdE9jA6UgomhWUK9 | Typescript, Javascript, Solidity, Python, NextJs, Node.js| Yes
+[joeymeere](https://github.com/joeymeere) | [joeymeere](https://twitter.com/joeymeere) | 7YYZE815j6bE3C1tgiAXKWh4FGwUagpxV9oUw6dgE1mU | Rust, Typescript, React, Next.js, Node.js, HTMX, C++, Brainf**k | No
 [akshatcoder-hash](https://github.com/akshatcoder-hash) | [akshatwts](https://twitter.com/akshatwts) | Ey85NUDkZQkZRPP48TihWp5CdrnL6rvG2fdpLF8cK2wB | Typescript, Javascript, Rust, NextJs, Python, Node.js| Yes
 [druspencer](https://github.com/druspencer) | [onChainDru](https://twitter.com/onchaindru)| DNE9uCy7a7D8Dua9ovNc8ebkAuhAbbpY4usPdhmaexBG | Python, Typescript, Node.js, Rust (Anchor)| No
 [metasal](https://github.com/metasal1) | [metasal_](https://twitter.com/metasal_) | sa1im2Zd2C7utCAyzAmUFrPYY26qrNsPbhfNY6BzLQF | Javascript, React, ReactNative, NextJS | Yes
