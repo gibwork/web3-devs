@@ -48,3 +48,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [Shiva953](https://github.com/Shiva953) | [Neutron975](https://twitter.com/Neutron975) | 792FsxG2Co6rDAwudPCW1bJp8VwkzVThdSGPPZJpswE5 | JS,TS,Python,React,NextJS,NodeJS,Express | Yes
 [0xIchigo](https://github.com/0xIchigo) | [0xIchigo](https://twitter.com/0xIchigo) | GnZ38pmXU3umrA72TT6MZnJvHrNrtyMFAgA5ivbXeifv | Rust, Anchor, TypeScript, Node.js, Next.js, Svelte, C#, Solidity | No
 [bhagyamudgal](https://github.com/bhagyamudgal) | [BhagyaMudgal](https://twitter.com/BhagyaMudgal) | 9V9xnugDuEiHjcGjR3U1D2DhCHhJ8xMJorPXu7s7WqQj | TypeScript, JavaScript, Solidity | No
+[bgreni](https://github.com/bgreni) | [eggsquad](https://twitter.com/eggsquad_dev) | FpscJFipKBoAFXjhXfrruWyhsoNFisu8H8kLDdw1k8yH | Rust, C++, Python, Typescript, Golang | Yes
