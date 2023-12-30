@@ -62,6 +62,7 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [ignaviaa](https://github.com/ignaviaa) | [Ignaviaa](https://twitter.com/ignaviaa_01) | EyigagjE2nLxWBdzBBPCxrD6Bc1RGQWMP48ewbgfBjqy | Figma, Javascript, ReactJs, NextJs | Yes
 [Asrivast](https://github.com/Asrivast1) | [AskandSriv56638](https://x.com/AskandSriv56638) | 8wgG99KKxRMDTkST4x4hYWqFH7yeWkm2dhvD8MR8gzoB | Java, Python, NodeJs | Yes
 [arihantbansal](https://github.com/arihantbansal) | [Arihant Bansal](https://twitter.com/_arihantbansal) | GsuyNHX76ZGXwisQ2qSyP6nNUgx2DxNtCQXESVswzC6F | Typescript, Rust, Python | No
+[Mocolicious](https://github.com/mocolicious) | N/A | 26toq28ewEfQZxXZh7MrZTkP3aTKkWemG2PQNg6TixXr | C#, Rust, Typescript, NodeJs, React, Angular, SQL, Solidity | Yes
 [sunguru98](https://github.com/sunguru98) | [Sundeep Charan Ramkumar](https://twitter.com/SundeepCharan) | 81sWMLg1EgYps3nMwyeSW1JfjKgFqkGYPP85vTnkFzRn | Typescript, Rust, React, JavaScript, Node.js, Next.js | Yes
 [Solomon Foskaay](https://github.com/SolomonFoskaay) | [SolomonFoskaay](https://twitter.com/SolomonFoskaay) | EYe982UvxM1T1Kvjg83mzFviWGcgFWtJ5aQSogpQmXGR | Creates Free Web3 Developer Courses on Vanilla Solidity, Solang Solidity, Javascript, TypeScript, NextJS, NodeJs, Reactjs, Web3js, Etherjs, Rust, Cadence | No
 [armariya](https://github.com/qapquiz) | [armariya](https://twitter.com/armariya) | 8Dk7dhvqnfLahRxMBYU2Q4v9f7DNY8Se9GYjqjyyiKJZ | Typescript, Javascript, Shell script, Rust, Golang, Svelte | No
