@@ -46,3 +46,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [metasal](https://github.com/metasal1) | [metasal_](https://twitter.com/metasal_) | sa1im2Zd2C7utCAyzAmUFrPYY26qrNsPbhfNY6BzLQF | Javascript, React, ReactNative, NextJS | Yes
 [dcj](https://github.com/danielcolinjames) | [dcj](https://twitter.com/dcwj) | GkanAV7se4RnAg8Z5wP1nJSKYirzyzdLHadBS3uo2qN2 | React, React Native, TypeScript, JavaScript, Next.js, TailwindCSS, Figma | Yes
 [Shiva953](https://github.com/Shiva953) | [Neutron975](https://twitter.com/Neutron975) | 792FsxG2Co6rDAwudPCW1bJp8VwkzVThdSGPPZJpswE5 | JS,TS,Python,React,NextJS,NodeJS,Express | Yes
+[0xIchigo](https://github.com/0xIchigo) | [0xIchigo](https://twitter.com/0xIchigo) | GnZ38pmXU3umrA72TT6MZnJvHrNrtyMFAgA5ivbXeifv | Rust, Anchor, TypeScript, Node.js, Next.js, Svelte, C#, Solidity | No
