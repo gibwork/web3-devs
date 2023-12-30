@@ -62,3 +62,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [ignaviaa](https://github.com/ignaviaa) | [Ignaviaa](https://twitter.com/ignaviaa_01) | EyigagjE2nLxWBdzBBPCxrD6Bc1RGQWMP48ewbgfBjqy | Figma, Javascript, ReactJs, NextJs | Yes
 [Asrivast](https://github.com/Asrivast1) | [AskandSriv56638](https://x.com/AskandSriv56638) | 8wgG99KKxRMDTkST4x4hYWqFH7yeWkm2dhvD8MR8gzoB | Java, Python, NodeJs | Yes
 [arihantbansal](https://github.com/arihantbansal) | [Arihant Bansal](https://twitter.com/_arihantbansal) | GsuyNHX76ZGXwisQ2qSyP6nNUgx2DxNtCQXESVswzC6F | Typescript, Rust, Python | No
+[sunguru98](https://github.com/sunguru98) | [Sundeep Charan Ramkumar](https://twitter.com/SundeepCharan) | 81sWMLg1EgYps3nMwyeSW1JfjKgFqkGYPP85vTnkFzRn | Typescript, Rust, React, JavaScript, Node.js, Next.js | Yes
