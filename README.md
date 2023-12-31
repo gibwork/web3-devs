@@ -1,4 +1,4 @@
-####  Pull Request must be submitted through the bounty: https://app.gib.work/r/WcRn5jGP/web3-devs
+#### Pull Request must be submitted through the bounty: https://app.gib.work/r/WcRn5jGP/web3-devs
 
 ## **Contributors building in Web3.**
 <p>A curated list of active contributors who are collectively shaping the future landscape of decentralized applications and innovative blockchain solutions.. </p> 
