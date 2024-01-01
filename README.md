@@ -1,6 +1,11 @@
-####  Pull Request must be submitted through the bounty: https://app.gib.work/r/WcRn5jGP/web3-devs
+Follow us on Twitter [@gib_work](https://twitter.com/gib_work)
+
+**Contributors building in Web3.**
+
+#### Pull Request must be submitted through the bounty: https://app.gib.work/r/WcRn5jGP/web3-devs
 
 ## **Contributors building in Web3.**
+
 <p>A curated list of active contributors who are collectively shaping the future landscape of decentralized applications and innovative blockchain solutions.. </p> 
 
 <p>Include a wallet that you're willing to share publicly and can receive airdrops.</p>
@@ -67,4 +72,7 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [armariya](https://github.com/qapquiz) | [armariya](https://twitter.com/armariya) | 8Dk7dhvqnfLahRxMBYU2Q4v9f7DNY8Se9GYjqjyyiKJZ | Typescript, Javascript, Shell script, Rust, Golang, Svelte | No
 [MarkSackerberg](https://github.com/MarkSackerberg) | [MarkSackerberg](https://twitter.com/MarkSackerberg) | 8Dk7dhvqnfLahRxMBYU2Q4v9f7DNY8Se9GYjqjyyiKJZ | Metaplex, NFT, Umi, Kinobi, Candy Machine, Typescript, Javascript, Next.js, scripting, Shell | Depends
 [Ahzam](https://github.com/AhzamAkhtar) | [007Ahzam](https://twitter.com/007Ahzam) | 44n5CYX18L6p4VxVECE9ZNYrAGB9GKD477b78kPNq5Su | Rust, Typescript , Kotlin, Java | Yes
+[Shrinath](https://github.com/ShrinathNR) | [resiquents](https://twitter.com/resiquents) | 86nzka9Vi6A989Ej2L4LXf8zdqvVkistHntq28mbv4gF | Typescript, Rust, Nodejs, Reactjs, Nextjs | Yes
+[malay44](http://github.com/malay44) | [PatelMalay12](https://twitter.com/PatelMalay12) | d0d73D50D99A80682A7517862b5739203B82f2f3 | Solidity, Typescript, React, JavaScript, Node.js, Next.js | Yes
+[ritvij14](https://github.com/ritvij14) | [Ritvij Kumar Sharma](https://twitter.com/ritvij14_) | Ss7aGjpwHm3Gg4MVNdXrm5C4GXuMvryCZUayjhPkouc | Typescript, Rust, Solidity, Flutter, Java, Kotlin | No
 [Ankit Singh](https://github.com/ankitzm) | [ankitzm](https://twitter.com/ankitzm) | 98YBVw4NRtrqpgmHFnS3pJDLytJgfPvZkPoZHhzJ6U9H | Typescript, Javascript, Reactjs, Nextjs, Nodejs, API | Yes
