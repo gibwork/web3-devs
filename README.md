@@ -67,3 +67,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [armariya](https://github.com/qapquiz) | [armariya](https://twitter.com/armariya) | 8Dk7dhvqnfLahRxMBYU2Q4v9f7DNY8Se9GYjqjyyiKJZ | Typescript, Javascript, Shell script, Rust, Golang, Svelte | No
 [MarkSackerberg](https://github.com/MarkSackerberg) | [MarkSackerberg](https://twitter.com/MarkSackerberg) | 8Dk7dhvqnfLahRxMBYU2Q4v9f7DNY8Se9GYjqjyyiKJZ | Metaplex, NFT, Umi, Kinobi, Candy Machine, Typescript, Javascript, Next.js, scripting, Shell | Depends
 [Ahzam](https://github.com/AhzamAkhtar) | [007Ahzam](https://twitter.com/007Ahzam) | 44n5CYX18L6p4VxVECE9ZNYrAGB9GKD477b78kPNq5Su | Rust, Typescript , Kotlin, Java | Yes
+[Ankit Singh](https://github.com/ankitzm) | [ankitzm](https://twitter.com/ankitzm) | 98YBVw4NRtrqpgmHFnS3pJDLytJgfPvZkPoZHhzJ6U9H | Typescript, Javascript, Reactjs, Nextjs, Nodejs, API | Yes
