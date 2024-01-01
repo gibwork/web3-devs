@@ -77,3 +77,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [simplysabir](http://github.com/simplysabir) | [simplysabir_](https://twitter.com/simplysabir_) | 8Wkd1h4QCtBM7bY4hmCGRZwuxYwsJA5SEMaLaPREBu5o | Rust, Typescript, JavaScript, Node.js, Next.js, Anchor, Go, Backend, Solana, Nest JS, SQL | Depends
 [ritvij14](https://github.com/ritvij14) | [Ritvij Kumar Sharma](https://twitter.com/ritvij14_) | Ss7aGjpwHm3Gg4MVNdXrm5C4GXuMvryCZUayjhPkouc | Typescript, Rust, Solidity, Flutter, Java, Kotlin | No
 [Ankit Singh](https://github.com/ankitzm) | [ankitzm](https://twitter.com/ankitzm) | 98YBVw4NRtrqpgmHFnS3pJDLytJgfPvZkPoZHhzJ6U9H | Typescript, Javascript, Reactjs, Nextjs, Nodejs, API | Yes
+[Saurabh](https://github.com/saurabhgh18) | [18saurabh_511](https://twitter.com/18saurabh_511) | GaVV5nEcHC46xdh7F9gJVkVB9GanpByGUMYnSQynB6xm | Rust, Python ,DevOps | Yes
