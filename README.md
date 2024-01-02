@@ -80,3 +80,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [Saurabh](https://github.com/saurabhgh18) | [18saurabh_511](https://twitter.com/18saurabh_511) | GaVV5nEcHC46xdh7F9gJVkVB9GanpByGUMYnSQynB6xm | Rust, Python ,DevOps | Yes  
 [WinDyAlphA](https://github.com/WinDyAlphA) | [WinDy71613043](https://twitter.com/WinDy71613043) | 5NCrwmYKkTa5VvKg6zeN7ywXG3bDjTZPafh9yFu6wgyg | Javascript, Typescript, Python, Nodejs, React | Yes
 [ilovespectra](https://github.com/ilovespectra) | [tanny.sol](https://twitter.com/ilovespectra) | Cj1jScR4V73qLmvWJiGiWs9jtcwCXEZsmS5cevWt9jNc | HTML, JS, Python, Rust, Nodejs, React | Yes
+[tradernotaddict](https://github.com/tradernotaddict) | [julianhzhu](https://twitter.com/julianhzhu) | GDGJ5JeqEhz1Zums3kQpRM5q1y9nsT6QmbjsbesSyXHH | Typescript, NodeJS, Dart, Rust | No
