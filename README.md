@@ -81,3 +81,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [WinDyAlphA](https://github.com/WinDyAlphA) | [WinDy71613043](https://twitter.com/WinDy71613043) | 5NCrwmYKkTa5VvKg6zeN7ywXG3bDjTZPafh9yFu6wgyg | Javascript, Typescript, Python, Nodejs, React | Yes
 [ilovespectra](https://github.com/ilovespectra) | [tanny.sol](https://twitter.com/ilovespectra) | Cj1jScR4V73qLmvWJiGiWs9jtcwCXEZsmS5cevWt9jNc | HTML, JS, Python, Rust, Nodejs, React | Yes
 [tradernotaddict](https://github.com/tradernotaddict) | [julianhzhu](https://twitter.com/julianhzhu) | GDGJ5JeqEhz1Zums3kQpRM5q1y9nsT6QmbjsbesSyXHH | Typescript, NodeJS, Dart, Rust | No
+[exidz](https://github.com/exidz) | [_exidz_](https://twitter.com/_Exidz_) | 6WmwFmE4ymRJ6cqRr3Sugh7onWJvUt8fBfiCwxuEV94M | Typescript, Javascript, Go | Depends
