@@ -82,3 +82,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [ilovespectra](https://github.com/ilovespectra) | [tanny.sol](https://twitter.com/ilovespectra) | Cj1jScR4V73qLmvWJiGiWs9jtcwCXEZsmS5cevWt9jNc | HTML, JS, Python, Rust, Nodejs, React | Yes
 [tradernotaddict](https://github.com/tradernotaddict) | [julianhzhu](https://twitter.com/julianhzhu) | GDGJ5JeqEhz1Zums3kQpRM5q1y9nsT6QmbjsbesSyXHH | Typescript, NodeJS, Dart, Rust | No
 [exidz](https://github.com/exidz) | [_exidz_](https://twitter.com/_Exidz_) | 6WmwFmE4ymRJ6cqRr3Sugh7onWJvUt8fBfiCwxuEV94M | Typescript, Javascript, Go | Depends
+[ShivrajBhapkar](https://github.com/ShivrajBhapkar) | [Dev_Shivraj](https://twitter.com/Dev_Shivraj) | 2Gtf6GfN8uUV7GgnaPSuZyoLV2Y4WmudVKu9mfqLj3qz |  Typescript, Javascript, React, Nextjs, CSS | Yes
