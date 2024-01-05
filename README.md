@@ -84,3 +84,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [exidz](https://github.com/exidz) | [_exidz_](https://twitter.com/_Exidz_) | 6WmwFmE4ymRJ6cqRr3Sugh7onWJvUt8fBfiCwxuEV94M | Typescript, Javascript, Go | Depends
 [ShivrajBhapkar](https://github.com/ShivrajBhapkar) | [Dev_Shivraj](https://twitter.com/Dev_Shivraj) | 2Gtf6GfN8uUV7GgnaPSuZyoLV2Y4WmudVKu9mfqLj3qz |  Typescript, Javascript, React, Nextjs, CSS | Yes
 [Revtpark](https://github.com/revtpark) | [Tanishq Parkar](https://x.com/@TanishqParkar) | GcfsCFes5GojdhQCecUegb84c7cUfH4hhYTrh9Ljyi94 | Python, TS, HTML/CSS, Rust, MERN, SQL, Mongo | Depends
+[Shuva15](https://github.com/Shuva15) | [@Shuva_Mahanta](https://twitter.com/Shuva_Mahanta) | Bbm7YHqdij8ems3tDKTtN14Po4c2Zuhf2sVpTwNXMCyq | Javascript, React | Yes
