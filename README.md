@@ -76,7 +76,7 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [malay44](http://github.com/malay44) | [PatelMalay12](https://twitter.com/PatelMalay12) | d0d73D50D99A80682A7517862b5739203B82f2f3 | Solidity, Typescript, React, JavaScript, Node.js, Next.js | Yes
 [simplysabir](http://github.com/simplysabir) | [simplysabir_](https://twitter.com/simplysabir_) | 8Wkd1h4QCtBM7bY4hmCGRZwuxYwsJA5SEMaLaPREBu5o | Rust, Typescript, JavaScript, Node.js, Next.js, Anchor, Go, Backend, Solana, Nest JS, SQL | Depends
 [ritvij14](https://github.com/ritvij14) | [Ritvij Kumar Sharma](https://twitter.com/ritvij14_) | Ss7aGjpwHm3Gg4MVNdXrm5C4GXuMvryCZUayjhPkouc | Typescript, Rust, Solidity, Flutter, Java, Kotlin | No
-[Ankit Singh](https://github.com/ankitzm) | [ankitzm](https://twitter.com/ankitzm) | 98YBVw4NRtrqpgmHFnS3pJDLytJgfPvZkPoZHhzJ6U9H | Typescript, Javascript, Reactjs, Nextjs, Nodejs, API | Yes
+[Ankit Singh](https://github.com/ankitzm) | [ankitzm](https://twitter.com/ankitzm) | 98YBVw4NRtrqpgmHFnS3pJDLytJgfPvZkPoZHhzJ6U9H | Typescript, Javascript, Reactjs, Nextjs, Nodejs, API, EtherJS, Hardhat | Yes
 [Saurabh](https://github.com/saurabhgh18) | [18saurabh_511](https://twitter.com/18saurabh_511) | GaVV5nEcHC46xdh7F9gJVkVB9GanpByGUMYnSQynB6xm | Rust, Python ,DevOps | Yes  
 [WinDyAlphA](https://github.com/WinDyAlphA) | [WinDy71613043](https://twitter.com/WinDy71613043) | 5NCrwmYKkTa5VvKg6zeN7ywXG3bDjTZPafh9yFu6wgyg | Javascript, Typescript, Python, Nodejs, React | Yes
 [ilovespectra](https://github.com/ilovespectra) | [tanny.sol](https://twitter.com/ilovespectra) | Cj1jScR4V73qLmvWJiGiWs9jtcwCXEZsmS5cevWt9jNc | HTML, JS, Python, Rust, Nodejs, React | Yes
@@ -84,4 +84,11 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [exidz](https://github.com/exidz) | [_exidz_](https://twitter.com/_Exidz_) | 6WmwFmE4ymRJ6cqRr3Sugh7onWJvUt8fBfiCwxuEV94M | Typescript, Javascript, Go | Depends
 [ShivrajBhapkar](https://github.com/ShivrajBhapkar) | [Dev_Shivraj](https://twitter.com/Dev_Shivraj) | 2Gtf6GfN8uUV7GgnaPSuZyoLV2Y4WmudVKu9mfqLj3qz |  Typescript, Javascript, React, Nextjs, CSS | Yes
 [Revtpark](https://github.com/revtpark) | [Tanishq Parkar](https://x.com/@TanishqParkar) | GcfsCFes5GojdhQCecUegb84c7cUfH4hhYTrh9Ljyi94 | Python, TS, HTML/CSS, Rust, MERN, SQL, Mongo | Depends
+
+
+
+[iamsatyajit05](https://github.com/iamsatyajit05) | [0xSatyajit](https://twitter.com/0xsatyajit) | ErGFP9ZhFcMq7o7Y2KMSjSVktvvviEMnTVLFbqnZbTpi | JS, TS, ReactJS, NextJs, MongoDB, NodeJS, ExpressJS | Yes
+[Redfox](https://github.com/Redfox) | [Vitor.git](https://twitter.com/vitor_git) | FWCnSy85XRESSmUNZ5Zq3a7bpmqNjtmjJghN3HUZkwdE | TS, NodeJS, Rust, Go, NextJs, ReactJS | No
+[IgorSouzza](https://github.com/IgorSouzza) | [0xIgoones](https://twitter.com/0xIgoones) | 4usbR27TmsbLZdiMsQphmnUcuWEQNL2X7kj4AvZDTPrD | JS, TS, ReactJS, NextJs, NestJs, NodeJS, ExpressJS | Yes
+
 [Shuva15](https://github.com/Shuva15) | [@Shuva_Mahanta](https://twitter.com/Shuva_Mahanta) | Bbm7YHqdij8ems3tDKTtN14Po4c2Zuhf2sVpTwNXMCyq | Javascript, React | Yes
