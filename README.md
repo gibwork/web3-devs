@@ -87,3 +87,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [iamsatyajit05](https://github.com/iamsatyajit05) | [0xSatyajit](https://twitter.com/0xsatyajit) | ErGFP9ZhFcMq7o7Y2KMSjSVktvvviEMnTVLFbqnZbTpi | JS, TS, ReactJS, NextJs, MongoDB, NodeJS, ExpressJS | Yes
 [Redfox](https://github.com/Redfox) | [Vitor.git](https://twitter.com/vitor_git) | FWCnSy85XRESSmUNZ5Zq3a7bpmqNjtmjJghN3HUZkwdE | TS, NodeJS, Rust, Go, NextJs, ReactJS | No
 [IgorSouzza](https://github.com/IgorSouzza) | [0xIgoones](https://twitter.com/0xIgoones) | 4usbR27TmsbLZdiMsQphmnUcuWEQNL2X7kj4AvZDTPrD | JS, TS, ReactJS, NextJs, NestJs, NodeJS, ExpressJS | Yes
+[dipanshuhappy](https://github.com/dipanshuhappy) | [dipanshuhappy](https://twitter.com/dipanshuhappy) | G1kVo543LXxLa4J4eQnckqnRQWAw4A563iRxVxTemPL | JS, TS, ReactJS, NextJs, NestJs, NodeJS, ExpressJS,Rust, Motoko, Solidity | Yes
