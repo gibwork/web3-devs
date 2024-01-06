@@ -92,4 +92,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [ashu0x](https://github.com/ashu0x) | [0xashq](https://twitter.com/0xashq) | 6vusqxigDf8kcRmmNoaVYLS8eXqpF368GR5QNyJbpa5i | Rust, TS, ReactJS, NextJs, Solidity, NodeJS, ExpressJS | Yes
 [Shuva15](https://github.com/Shuva15) | [@Shuva_Mahanta](https://twitter.com/Shuva_Mahanta) | Bbm7YHqdij8ems3tDKTtN14Po4c2Zuhf2sVpTwNXMCyq | Javascript, React | Yes
 [kore4lyf](https://github.com/kore4lyf) | [kore4lfy](https://twitter.com/kore4lfy) | BHsbFJV83ZXumT8VKjEM1Vr33VqDgNzevH8WvVZ8ekL1 | JS, TS, ReactJS, NextJs, NestJs, NodeJS, ExpressJS, HTML, CSS, SASS, MongoDB, PostgreSQL, MySQL, Solidity | Yes
-
+[lilibelkay](https://github.com/lilibelkay) | [girlundtech](https://twitter.com/girlundtech) | DWVQ3567VzcQCAXDe4LpznivDBx5Gt9oRa9EgcU3HD6W | JavaScript, ReactJS, HTML/CSS | Yes
