@@ -94,3 +94,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [Shuva15](https://github.com/Shuva15) | [@Shuva_Mahanta](https://twitter.com/Shuva_Mahanta) | Bbm7YHqdij8ems3tDKTtN14Po4c2Zuhf2sVpTwNXMCyq | Javascript, React | Yes
 [kore4lyf](https://github.com/kore4lyf) | [kore4lfy](https://twitter.com/kore4lfy) | BHsbFJV83ZXumT8VKjEM1Vr33VqDgNzevH8WvVZ8ekL1 | JS, TS, ReactJS, NextJs, NestJs, NodeJS, ExpressJS, HTML, CSS, SASS, MongoDB, PostgreSQL, MySQL, Solidity | Yes
 [lilibelkay](https://github.com/lilibelkay) | [girlundtech](https://twitter.com/girlundtech) | DWVQ3567VzcQCAXDe4LpznivDBx5Gt9oRa9EgcU3HD6W | JavaScript, ReactJS, HTML/CSS | Yes
+[ATREAY](https://github.com/ATREAY) | [AtreayKukanur](https://twitter.com/AtreayKukanur) | 0x0e7ecFCD38982Af452cB8b458df1b1f529034Bc3 | JS, TS, ReactJS, NextJs, MongoDB, NodeJS, ExpressJS, TailWind CSS, Python | Yes
