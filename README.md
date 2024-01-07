@@ -91,4 +91,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [KaranSinghBisht](https://github.com/KaranSinghBisht) | [Karan_Bisht09](https://twitter.com/Karan_Bisht09) | APRh9KZN24sagUtefVHPHVqVzqTC9kfnn9y9Hw1tTvPu | JS, Python, C | Yes
 [ashu0x](https://github.com/ashu0x) | [0xashq](https://twitter.com/0xashq) | 6vusqxigDf8kcRmmNoaVYLS8eXqpF368GR5QNyJbpa5i | Rust, TS, ReactJS, NextJs, Solidity, NodeJS, ExpressJS | Yes
 [Shuva15](https://github.com/Shuva15) | [@Shuva_Mahanta](https://twitter.com/Shuva_Mahanta) | Bbm7YHqdij8ems3tDKTtN14Po4c2Zuhf2sVpTwNXMCyq | Javascript, React | Yes
-[nikhil075](https://github.com/nikhil075) | [@ntaneja921](https://twitter.com/ntaneja921) | AnV6z3no4ZHEmrZpaHGPfzQo1TnCC8nnfkbhxkTcQN8T | Rust, ReactJS, Solidity, NodeJS, Java | Yes
+[nikhil075](https://github.com/nikhil075) | [@ntaneja921](https://twitter.com/ntaneja921) | AnV6z3no4ZHEmrZpaHGPfzQo1TnCC8nnfkbhxkTcQN8T | Rust, ReactJS, Solidity, NodeJS, Java,MongoDB | Yes
