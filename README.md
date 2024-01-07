@@ -95,3 +95,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [kore4lyf](https://github.com/kore4lyf) | [kore4lfy](https://twitter.com/kore4lfy) | BHsbFJV83ZXumT8VKjEM1Vr33VqDgNzevH8WvVZ8ekL1 | JS, TS, ReactJS, NextJs, NestJs, NodeJS, ExpressJS, HTML, CSS, SASS, MongoDB, PostgreSQL, MySQL, Solidity | Yes
 [lilibelkay](https://github.com/lilibelkay) | [girlundtech](https://twitter.com/girlundtech) | DWVQ3567VzcQCAXDe4LpznivDBx5Gt9oRa9EgcU3HD6W | JavaScript, ReactJS, HTML/CSS | Yes
 [satish13579](https://github.com/satish13579) | [SatishCCY](https://twitter.com/SatishCCY) | EZV8HmXozP34Tj7vpVyNyUmVP3ztog1G8ApuBxPXwyXj | JS, ReactJS, Motoko, Pyteal, Python, PHP, HTML CSS | Yes
+[0xkamal7](https://github.com/kamalbuilds) | [Kamal_TheBuilder](https://twitter.com/0xkamal7) | 4KoGrR7PQxEQEKj9g92uRTPJ9ZSMFiD8gV3LP5agJ4nJ | TypeScript, Rust (Anchor), Solidity, JavaScript, React/Next.js | Yes
