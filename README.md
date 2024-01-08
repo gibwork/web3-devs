@@ -97,3 +97,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [satish13579](https://github.com/satish13579) | [SatishCCY](https://twitter.com/SatishCCY) | EZV8HmXozP34Tj7vpVyNyUmVP3ztog1G8ApuBxPXwyXj | JS, ReactJS, Motoko, Pyteal, Python, PHP, HTML CSS | Yes
 [0xkamal7](https://github.com/kamalbuilds) | [Kamal_TheBuilder](https://twitter.com/0xkamal7) | 4KoGrR7PQxEQEKj9g92uRTPJ9ZSMFiD8gV3LP5agJ4nJ | TypeScript, Rust (Anchor), Solidity, JavaScript, React/Next.js | Yes
 [Lea Blua](https://github.com/leafars) | [NFTrans](https://twitter.com/NFTransF) | 4Wa6xBfRKtTGpMrpmfniLZ4ugocN7BaCMaKxixpneYG6 | Python, Javascript, HTML | No
+[0xDistro](https://github.com/distr0x) | [0xDistro](https://twitter.com/0xDistro_) | DStrPzi94VcSQiPud4qXwJwdL2XGBXzUDamKduXFiotB | Javascript, TypeScript, React, NextJS, UI/UX | No
