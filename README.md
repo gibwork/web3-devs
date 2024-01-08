@@ -98,5 +98,6 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [0xkamal7](https://github.com/kamalbuilds) | [Kamal_TheBuilder](https://twitter.com/0xkamal7) | 4KoGrR7PQxEQEKj9g92uRTPJ9ZSMFiD8gV3LP5agJ4nJ | TypeScript, Rust (Anchor), Solidity, JavaScript, React/Next.js | Yes
 [Lea Blua](https://github.com/leafars) | [NFTrans](https://twitter.com/NFTransF) | 4Wa6xBfRKtTGpMrpmfniLZ4ugocN7BaCMaKxixpneYG6 | Python, Javascript, HTML | No
 [0xDistro](https://github.com/distr0x) | [0xDistro](https://twitter.com/0xDistro_) | DStrPzi94VcSQiPud4qXwJwdL2XGBXzUDamKduXFiotB | Javascript, TypeScript, React, NextJS, UI/UX | No
+[trudransh](https://github.com/trudransh/) | [trudransh](https://twitter.com/RudranshSinghT1) |DRyFsN6XSWkRJ5pP97kjcdzLYPbNsQqTXhJSiVXvWh1W | TypeScript, Rust, Solidity, HTML, CSS, JavaScript, React.js, Next.js | Yes
 [Vaishak J](https://github.com/Vaishak) | [Whyshock](https://twitter.com/whyshock) | DuFpcdExyRt6bAMp3TxMWCYQZyxmU7JEFV78CTogkJFt | Java, Python, TS | Yes
 [priyadarshss](https://github.com/priyadarshss) | [priyadarshss](https://twitter.com/priyadarshss) | 0x82E5679071DDD33ede88F9BCBC9C23a01bC9dc91 | JS, TS, Next.js, React, Node.js, Express.js, HTML/CSS, Tailwind CSS, MongoDB, PostgreSQL, MySQL, Solidity | Yes
