@@ -103,3 +103,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [priyadarshss](https://github.com/priyadarshss) | [priyadarshss](https://twitter.com/priyadarshss) | 0x82E5679071DDD33ede88F9BCBC9C23a01bC9dc91 | JS, TS, Next.js, React, Node.js, Express.js, HTML/CSS, Tailwind CSS, MongoDB, PostgreSQL, MySQL, Solidity | Yes
 [pabloaguilarmartinez](https://github.com/pabloaguilarmartinez) | [0xPAM](https://twitter.com/0xPAM) | 5aAo7KcDiEjeCxUYWR2HNLyuP9jM5ehztqWUFqxdU3BZ | Java, Kotlin, Typescript, Python | No
 [cylim](https://github.com/cylim) | [CY](https://twitter.com/cylim226) | DStjnEAvJhpkLK9zMAdZQAEjCuDdGDvAQqNwUoepdb4p | Docker, JavaScript, React, React Native, Python, Motoko, Solidity | Yes
+[DaemonBSD](https://github.com/DaemonBSD) | [DaemonB2D](https://twitter.com/DaemonB2D) | 4LdJ18MLX3T59DCdCwhitZogXzNZ6NtM3cYN5c5Mr5FU | JS, SQL, Python | No
