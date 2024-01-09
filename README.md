@@ -102,3 +102,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [Vaishak J](https://github.com/Vaishak) | [Whyshock](https://twitter.com/whyshock) | DuFpcdExyRt6bAMp3TxMWCYQZyxmU7JEFV78CTogkJFt | Java, Python, TS | Yes
 [priyadarshss](https://github.com/priyadarshss) | [priyadarshss](https://twitter.com/priyadarshss) | 0x82E5679071DDD33ede88F9BCBC9C23a01bC9dc91 | JS, TS, Next.js, React, Node.js, Express.js, HTML/CSS, Tailwind CSS, MongoDB, PostgreSQL, MySQL, Solidity | Yes
 [pabloaguilarmartinez](https://github.com/pabloaguilarmartinez) | [0xPAM](https://twitter.com/0xPAM) | 5aAo7KcDiEjeCxUYWR2HNLyuP9jM5ehztqWUFqxdU3BZ | Java, Kotlin, Typescript, Python | No
+[AndyNft](https://github.com/AndyNft) | [Sol_seeker](https://twitter.com/sol_seeker69) | BMxjmodBAFXPmavCCrEJYAZkf8shrc4Jh9SJf4onyW8n | JS, TS, React, HTML/CSS, Rust, Python, MySQL | No
