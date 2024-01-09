@@ -104,3 +104,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [pabloaguilarmartinez](https://github.com/pabloaguilarmartinez) | [0xPAM](https://twitter.com/0xPAM) | 5aAo7KcDiEjeCxUYWR2HNLyuP9jM5ehztqWUFqxdU3BZ | Java, Kotlin, Typescript, Python | No
 [cylim](https://github.com/cylim) | [CY](https://twitter.com/cylim226) | DStjnEAvJhpkLK9zMAdZQAEjCuDdGDvAQqNwUoepdb4p | Docker, JavaScript, React, React Native, Python, Motoko, Solidity | Yes
 [DaemonBSD](https://github.com/DaemonBSD) | [DaemonB2D](https://twitter.com/DaemonB2D) | 4LdJ18MLX3T59DCdCwhitZogXzNZ6NtM3cYN5c5Mr5FU | JS, SQL, Python | No
+[andersonwea](https://github.com/andersonwea) | [andersonwea2214](https://twitter.com/Andersonwea2114) | 2qdrvoWmW1MwxRMp5E2Ur86t5bC7vtfmfJmRkUBp26ZL | JavaScript, TypeScript, React.js, Next.js, Node.js | yes
