@@ -94,4 +94,15 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [Shuva15](https://github.com/Shuva15) | [@Shuva_Mahanta](https://twitter.com/Shuva_Mahanta) | Bbm7YHqdij8ems3tDKTtN14Po4c2Zuhf2sVpTwNXMCyq | Javascript, React | Yes
 [kore4lyf](https://github.com/kore4lyf) | [kore4lfy](https://twitter.com/kore4lfy) | BHsbFJV83ZXumT8VKjEM1Vr33VqDgNzevH8WvVZ8ekL1 | JS, TS, ReactJS, NextJs, NestJs, NodeJS, ExpressJS, HTML, CSS, SASS, MongoDB, PostgreSQL, MySQL, Solidity | Yes
 [lilibelkay](https://github.com/lilibelkay) | [girlundtech](https://twitter.com/girlundtech) | DWVQ3567VzcQCAXDe4LpznivDBx5Gt9oRa9EgcU3HD6W | JavaScript, ReactJS, HTML/CSS | Yes
+[satish13579](https://github.com/satish13579) | [SatishCCY](https://twitter.com/SatishCCY) | EZV8HmXozP34Tj7vpVyNyUmVP3ztog1G8ApuBxPXwyXj | JS, ReactJS, Motoko, Pyteal, Python, PHP, HTML CSS | Yes
+[0xkamal7](https://github.com/kamalbuilds) | [Kamal_TheBuilder](https://twitter.com/0xkamal7) | 4KoGrR7PQxEQEKj9g92uRTPJ9ZSMFiD8gV3LP5agJ4nJ | TypeScript, Rust (Anchor), Solidity, JavaScript, React/Next.js | Yes
+[Lea Blua](https://github.com/leafars) | [NFTrans](https://twitter.com/NFTransF) | 4Wa6xBfRKtTGpMrpmfniLZ4ugocN7BaCMaKxixpneYG6 | Python, Javascript, HTML | No
+[0xDistro](https://github.com/distr0x) | [0xDistro](https://twitter.com/0xDistro_) | DStrPzi94VcSQiPud4qXwJwdL2XGBXzUDamKduXFiotB | Javascript, TypeScript, React, NextJS, UI/UX | No
+[trudransh](https://github.com/trudransh/) | [trudransh](https://twitter.com/RudranshSinghT1) |DRyFsN6XSWkRJ5pP97kjcdzLYPbNsQqTXhJSiVXvWh1W | TypeScript, Rust, Solidity, HTML, CSS, JavaScript, React.js, Next.js | Yes
+[Vaishak J](https://github.com/Vaishak) | [Whyshock](https://twitter.com/whyshock) | DuFpcdExyRt6bAMp3TxMWCYQZyxmU7JEFV78CTogkJFt | Java, Python, TS | Yes
+[priyadarshss](https://github.com/priyadarshss) | [priyadarshss](https://twitter.com/priyadarshss) | 0x82E5679071DDD33ede88F9BCBC9C23a01bC9dc91 | JS, TS, Next.js, React, Node.js, Express.js, HTML/CSS, Tailwind CSS, MongoDB, PostgreSQL, MySQL, Solidity | Yes
+[pabloaguilarmartinez](https://github.com/pabloaguilarmartinez) | [0xPAM](https://twitter.com/0xPAM) | 5aAo7KcDiEjeCxUYWR2HNLyuP9jM5ehztqWUFqxdU3BZ | Java, Kotlin, Typescript, Python | No
+[cylim](https://github.com/cylim) | [CY](https://twitter.com/cylim226) | DStjnEAvJhpkLK9zMAdZQAEjCuDdGDvAQqNwUoepdb4p | Docker, JavaScript, React, React Native, Python, Motoko, Solidity | Yes
+[DaemonBSD](https://github.com/DaemonBSD) | [DaemonB2D](https://twitter.com/DaemonB2D) | 4LdJ18MLX3T59DCdCwhitZogXzNZ6NtM3cYN5c5Mr5FU | JS, SQL, Python | No
+[andersonwea](https://github.com/andersonwea) | [andersonwea2214](https://twitter.com/Andersonwea2114) | 2qdrvoWmW1MwxRMp5E2Ur86t5bC7vtfmfJmRkUBp26ZL | JavaScript, TypeScript, React.js, Next.js, Node.js | yes
 [NikhilRaikwar](https://github.com/NikhilRaikwar) | [NikhilRaikwarr](https://twitter.com/NikhilRaikwarr) | 7v5oBGuEvzsub2kxwytsf1bVQk3sH3gbYUrkHy9pte5f | HTML/CSS, JavaScript, ReactJS, Solidity, Design | Yes
