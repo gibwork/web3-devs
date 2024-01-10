@@ -12,6 +12,7 @@ Follow us on Twitter [@gib_work](https://twitter.com/gib_work)
 
 Github | Twitter | Wallet Address | Languages | Available for Hire 
 --- | --- | --- | --- | ---
+[kingswillwariboko](https://github.com/Kingswillwariboko) | [Block5749] (https://twitter.com/Block5749) | Ao9dKmuuiWyMjXPtb4qNgTBAHD6zbktukUFyKUsttRF6 | Typescript, Javascript, React, ReactNative | Yes
 [Seeker](https://github.com/crgold/) | [ChrisGWeb3](https://twitter.com/ChrisGWeb3) | EmWTQnextZrhogAvxF4JvPW6tuscJsbn7Lej282SNQJh | TypeScript, Rust (Anchor), Solidity, HTML, CSS, JavaScript, React/Next.js | No
 [freesoldev](https://github.com/FreeSolDev) | [FreeSolDev](https://twitter.com/FreeSolGamesDev) | 7JcUxRFYSmy2KE5ESqewAae2STTLgU5KzyVZo657iFU5 | JS,Rust,html,css | No
 [anthonyliriano](https://github.com/anthonyliriano) | [0xNullRef](https://twitter.com/0xNullRef) | 8QhnBerkJRyzyEe6qNudWPEAoGFHvE7V2xTPJxDyNdkh | Rust, Typescript | No
