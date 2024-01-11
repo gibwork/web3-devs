@@ -106,3 +106,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [DaemonBSD](https://github.com/DaemonBSD) | [DaemonB2D](https://twitter.com/DaemonB2D) | 4LdJ18MLX3T59DCdCwhitZogXzNZ6NtM3cYN5c5Mr5FU | JS, SQL, Python | No
 [andersonwea](https://github.com/andersonwea) | [andersonwea2214](https://twitter.com/Andersonwea2114) | 2qdrvoWmW1MwxRMp5E2Ur86t5bC7vtfmfJmRkUBp26ZL | JavaScript, TypeScript, React.js, Next.js, Node.js | yes
 [NikhilRaikwar](https://github.com/NikhilRaikwar) | [NikhilRaikwarr](https://twitter.com/NikhilRaikwarr) | 7v5oBGuEvzsub2kxwytsf1bVQk3sH3gbYUrkHy9pte5f | HTML/CSS, JavaScript, ReactJS, Solidity, Design | Yes
+[sankara lingam](https://github.com/sankaralingamv) | [sankara lingam](https://twitter.com/mesankar) | 0x2e9664AA1AD74Ff18058167159e69fDD7195AFBc | Html, css ,js ,python ,next.js ,solidity,ether.js ,web3.js ,ipfs ,web3auth | Yes
