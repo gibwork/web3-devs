@@ -108,4 +108,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [NikhilRaikwar](https://github.com/NikhilRaikwar) | [NikhilRaikwarr](https://twitter.com/NikhilRaikwarr) | 7v5oBGuEvzsub2kxwytsf1bVQk3sH3gbYUrkHy9pte5f | HTML/CSS, JavaScript, ReactJS, Solidity, Design | Yes
 [sankara lingam](https://github.com/sankaralingamv) | [sankara lingam](https://twitter.com/mesankar) | 0x2e9664AA1AD74Ff18058167159e69fDD7195AFBc | Html, css ,js ,python ,next.js ,solidity,ether.js ,web3.js ,ipfs ,web3auth | Yes
 [aryanbhosale](https://github.com/aryanbhosale) | [aryanbhosale](https://twitter.com/aryanbhosale) | 5Rbr7GXr2VjyG45Y7SvaU94NSg3ZYhs9y4VozYe7xRQ | HTML/CSS, JavaScript, ReactJS, Solana, Web3JS, NextJS, NodeJS, ExpressJS, Django, MySQL, PostgreSQL, Python, C, Embedded C | Yes
-
+[elizase405](https://github.com/elizase405) | [Elizabeth](https://twitter.com/eliza31634) | Ay8BKvnE2prKnMnVpvoNAi6p9qGRsLZsD8pMTZiyk7gz | HTML/CSS, JavaScript, ReactJS, NodeJS, ExpressJS, Django, MySQL, Mongodb, Solidity, Python, C
