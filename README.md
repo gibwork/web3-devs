@@ -10,7 +10,6 @@ Follow us on Twitter [@gib_work](https://twitter.com/gib_work)
 
 <p>Include a wallet that you're willing to share publicly and can receive airdrops.</p>
 
-
 | Github                                                          | Twitter                                                      | Wallet Address                               | Languages                                                                                                                                                 | Available for Hire |
 | --------------------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
 | [Seeker](https://github.com/crgold/)                            | [ChrisGWeb3](https://twitter.com/ChrisGWeb3)                 | EmWTQnextZrhogAvxF4JvPW6tuscJsbn7Lej282SNQJh | TypeScript, Rust (Anchor), Solidity, HTML, CSS, JavaScript, React/Next.js                                                                                 | No                 |
