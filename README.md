@@ -111,3 +111,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [elizase405](https://github.com/elizase405) | [Elizabeth](https://twitter.com/eliza31634) | Ay8BKvnE2prKnMnVpvoNAi6p9qGRsLZsD8pMTZiyk7gz | HTML/CSS, JavaScript, ReactJS, NodeJS, ExpressJS, Django, MySQL, Mongodb, Solidity, Python, C
 [danielbui12](http://github.com/danielbui12) | [Daniel](https://twitter.com/danielbui_12) | 7fbPDP3jAbkEVf7QAAxhBKHcbfLPttPkyXJNNkv62Xvd | Typescript, JavaScript, Node.js, NestJS, React.js, Next.js, Solidity, Anchor, Solana, SQL/No-SQL | Yes
 [OXYMORON16](https://github.com/OXYMORON16) | [Aashrya](https://twitter.com/Aashryaa) | 5C5UktSjr6BvLL5fruHU8tTMJNoS88KasY9zukcxddwH | HTML/CSS, JavaScript, NodeJs, ExpressJs, ReactJs, Next.js, MySQL, MongoDB, Solidity | Yes
+[Emmanuel](https://github.com/Hemmykay/) | [Emmanuel](https://twitter.com/5Talker_) | 68mdN6CoQ9dNLkhM8bWf8RUcGmCuDBkboq7EBxHgiBph | Rust (Anchor), HTML, CSS, JavaScript, React/Next.js | Yes
