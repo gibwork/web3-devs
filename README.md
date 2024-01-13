@@ -111,4 +111,4 @@ Github | Twitter | Wallet Address | Languages | Available for Hire
 [elizase405](https://github.com/elizase405) | [Elizabeth](https://twitter.com/eliza31634) | Ay8BKvnE2prKnMnVpvoNAi6p9qGRsLZsD8pMTZiyk7gz | HTML/CSS, JavaScript, ReactJS, NodeJS, ExpressJS, Django, MySQL, Mongodb, Solidity, Python, C
 [danielbui12](http://github.com/danielbui12) | [Daniel](https://twitter.com/danielbui_12) | 7fbPDP3jAbkEVf7QAAxhBKHcbfLPttPkyXJNNkv62Xvd | Typescript, JavaScript, Node.js, NestJS, React.js, Next.js, Solidity, Anchor, Solana, SQL/No-SQL | Yes
 [OXYMORON16](https://github.com/OXYMORON16) | [Aashrya](https://twitter.com/Aashryaa) | 5C5UktSjr6BvLL5fruHU8tTMJNoS88KasY9zukcxddwH | HTML/CSS, JavaScript, NodeJs, ExpressJs, ReactJs, Next.js, MySQL, MongoDB, Solidity | Yes
-[b1gvini](https://github.com/b1gvini) | [b1gvini](https://twitter.com/b1gvini) | CLbmUz5BXK33apTK4suY2f957kbUMxPVzQNcRJ6sv3tu | Java, Python, MySQL, PostegreSQL, MongoDB, Solidity | No
+[b1gvini](https://github.com/b1gvini) | [b1gvini](https://twitter.com/b1gvini) | 2d5fu4mUQuxuJCXXBzLWvVTRP3ggYvZ9yTJeckXL6Trs | Java, Python, MySQL, PostegreSQL, MongoDB, Solidity | No
