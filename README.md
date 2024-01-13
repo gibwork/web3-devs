@@ -11,7 +11,7 @@ Follow us on Twitter [@gib_work](https://twitter.com/gib_work)
 <p>Include a wallet that you're willing to share publicly and can receive airdrops.</p>
 
 Github | Twitter | Wallet Address | Languages | Available for Hire 
---- | --- | --- | --- | ---
+[Yhubee_dev](https://github.com/Yhubee-dev) | [Yhubee_dev](https://twitter.com/Yhubee_dev) | EpE1Uv4QBD7LVfcug9ynRoAnTR6wqjJKUXE87VPTXnoi | TypeScript, Rust, Solidity, HTML, CSS, JavaScript, React/Next.js, Python | Yes
 [Seeker](https://github.com/crgold/) | [ChrisGWeb3](https://twitter.com/ChrisGWeb3) | EmWTQnextZrhogAvxF4JvPW6tuscJsbn7Lej282SNQJh | TypeScript, Rust (Anchor), Solidity, HTML, CSS, JavaScript, React/Next.js | No
 [freesoldev](https://github.com/FreeSolDev) | [FreeSolDev](https://twitter.com/FreeSolGamesDev) | 7JcUxRFYSmy2KE5ESqewAae2STTLgU5KzyVZo657iFU5 | JS,Rust,html,css | No
 [anthonyliriano](https://github.com/anthonyliriano) | [0xNullRef](https://twitter.com/0xNullRef) | 8QhnBerkJRyzyEe6qNudWPEAoGFHvE7V2xTPJxDyNdkh | Rust, Typescript | No
