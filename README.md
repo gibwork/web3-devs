@@ -4,7 +4,7 @@ Follow us on Twitter [@gib_work](https://twitter.com/gib_work)
 
 #### Pull Request must be submitted through the bounty: https://app.gib.work/r/WcRn5jGP/web3-devs
 
-## **Contributors building in Web3.**
+## **Contributors building in Web3.**t
 
 <p>A curated list of active contributors who are collectively shaping the future landscape of decentralized applications and innovative blockchain solutions.. </p>
 
