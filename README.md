@@ -122,5 +122,4 @@ Follow us on Twitter [@gib_work](https://twitter.com/gib_work)
 | [thienthanbong](https://github.com/thienthanbong)               | [Hong_Dao_11](https://twitter.com/Hong_Dao_11)               | A7Vi7oZyDdw7xaoRfckwkyfxz1NT4XStrRC5Hs4Ea2Yp | HTML/CSS, JavaScript, ReactJS, Solana, Web3JS, NextJS, NodeJS, ExpressJS, Django, MySQL, PostgreSQL, Python                                               | Yes                |
 | [ATREAY](https://github.com/ATREAY)                             |
 [AtreayKukanur](https://twitter.com/AtreayKukanur)           | 4NnKRW57ccxpwFySVj2QrRFH1bvYRFGgUtTiqbJfFeEK | JS, TS, ReactJS, NextJs, MongoDB, NodeJS, ExpressJS, TailWind CSS, Python                                                                                 | Yes                |
-| [tulyne](https://github.com/tulyne)                                     |
-[Tulynee](https://twitter.com/Tulynee)     | B2kjY9bbcUT6hpoXDAwR6pPARXtmR3dwqAsgn5t6ZnDu | Html/Css, JavaScript, Python                                                                                 | Yes                |
+| [tulyne](https://github.com/tulyne)                                     | [Tulynee](https://twitter.com/Tulynee)     | B2kjY9bbcUT6hpoXDAwR6pPARXtmR3dwqAsgn5t6ZnDu | Html/Css, JavaScript, Python                                                                                 | Yes                |
