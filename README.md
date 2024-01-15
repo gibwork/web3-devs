@@ -11,7 +11,7 @@ Follow us on Twitter [@gib_work](https://twitter.com/gib_work)
 <p>Include a wallet that you're willing to share publicly and can receive airdrops.</p>
 
 
-|[altjhn](https://github.com/altjhn)|[jhnsol_](https://twitter.com/jhnsol_)|4H6hnSZenaan298wm1Z6YBcDXjnF8Xs2ixYjsJQXdBgz|ENGLISH,TAGALOG|Graphic Designer
+| [altjhn](https://github.com/altjhn) | [jhnsol_](https://twitter.com/jhnsol_) | 4H6hnSZenaan298wm1Z6YBcDXjnF8Xs2ixYjsJQXdBgz | ENGLISH,TAGALOG | Graphic Designer 
 
 | [Seeker](https://github.com/crgold/)                            | [ChrisGWeb3](https://twitter.com/ChrisGWeb3)                 | EmWTQnextZrhogAvxF4JvPW6tuscJsbn7Lej282SNQJh | TypeScript, Rust (Anchor), Solidity, HTML, CSS, JavaScript, React/Next.js                                                                                 | No                 |
 | [freesoldev](https://github.com/FreeSolDev)                     | [FreeSolDev](https://twitter.com/FreeSolGamesDev)            | 7JcUxRFYSmy2KE5ESqewAae2STTLgU5KzyVZo657iFU5 | JS,Rust,html,css                                                                                                                                          | No                 |
