@@ -146,6 +146,6 @@ Follow us on Twitter [@gib_work](https://twitter.com/gib_work)
 | [jonahlstewart](https://github.com/jonahlstewart)                       | [Jonah Stewart](https://x.com/jonahlstewart)                   | CQY2fijVZ4dDU6MJ3yEitu7NTqvoth1CmDqJWqDd4tSx | JavaScript, Typescript, Solana, Rust, Python                                       | No                 |
 | [KabbalahOracle](https://github.com/kabbalahoracle)                       |    [KabbalahOracle](https://github.com/kabbalahoracle)                | 2rs8d9HAfT8nFBi6qhXAyip7rwHnFEzKCSJKzC6KLnxd | JavaScript, Typescript, Solana, Rust, Python                                       | No                 |
 | [shubhiscoding](https://github.com/shubhiscoding)           | [shubhk84](https://twitter.com/shubhk84)           | 8twrkXxvDzuUezvbkgg3LxpTEZ59KiFx2VxPFDkucLk3 | JavaScript, Java, Kotlin, Python, HTML/CSS                                       | Yes                 |
-[tobias](https://github.com/tobigiwa) | [oluwatobialone](https://twitter.com/oluwatobialone) | 8PQ6QRayXSQbjsETEo36UMmZzv3UZ9szZm1pfL2SFxRF | Go, Rust , Python, Javascript | Yes
-[sistemaseltigre](https://github.com/sistemaseltigre) | [elchuo160](https://twitter.com/elchuo160) | GKzwank3rqV73sJPM1QWbmDN4sL9tcy3KTNhTnZDVaoT | Flutter/Dart | Yes
-[Amin](https://github.com/AminMemariani) | [cyberHonig](https://twitter.com/cyberHonig) | ApeGNaqfRM3HJocYHfdZ88GmFj2wqVCxUzm5MGvGNrWy | Flutter/Dart, Python, Go | Yes
+| [tobias](https://github.com/tobigiwa) | [oluwatobialone](https://twitter.com/oluwatobialone) | 8PQ6QRayXSQbjsETEo36UMmZzv3UZ9szZm1pfL2SFxRF | Go, Rust , Python, Javascript | Yes
+| [sistemaseltigre](https://github.com/sistemaseltigre) | [elchuo160](https://twitter.com/elchuo160) | GKzwank3rqV73sJPM1QWbmDN4sL9tcy3KTNhTnZDVaoT | Flutter/Dart | Yes
+| [Amin](https://github.com/AminMemariani) | [cyberHonig](https://twitter.com/cyberHonig) | ApeGNaqfRM3HJocYHfdZ88GmFj2wqVCxUzm5MGvGNrWy | Flutter/Dart, Python, Go | Yes
