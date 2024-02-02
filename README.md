@@ -149,3 +149,4 @@ Follow us on Twitter [@gib_work](https://twitter.com/gib_work)
 | [tobias](https://github.com/tobigiwa) | [oluwatobialone](https://twitter.com/oluwatobialone) | 8PQ6QRayXSQbjsETEo36UMmZzv3UZ9szZm1pfL2SFxRF | Go, Rust , Python, Javascript | Yes
 | [sistemaseltigre](https://github.com/sistemaseltigre) | [elchuo160](https://twitter.com/elchuo160) | GKzwank3rqV73sJPM1QWbmDN4sL9tcy3KTNhTnZDVaoT | Flutter/Dart | Yes
 | [Amin](https://github.com/AminMemariani) | [cyberHonig](https://twitter.com/cyberHonig) | ApeGNaqfRM3HJocYHfdZ88GmFj2wqVCxUzm5MGvGNrWy | Flutter/Dart, Python, Go | Yes
+| [Suhas Sumukh](https://github.com/suhasasumukh) | [suhasasumukh](https://twitter.com/suhasasumukh) | GobKZxuB4nrFxZ9paLQpjGR9tjTFm4zMc9HBVohixhms | Python, JavaScript, TypeScript, Rust | No
