@@ -150,3 +150,4 @@ Follow us on Twitter [@gib_work](https://twitter.com/gib_work)
 | [sistemaseltigre](https://github.com/sistemaseltigre) | [elchuo160](https://twitter.com/elchuo160) | GKzwank3rqV73sJPM1QWbmDN4sL9tcy3KTNhTnZDVaoT | Flutter/Dart | Yes
 | [Amin](https://github.com/AminMemariani) | [cyberHonig](https://twitter.com/cyberHonig) | ApeGNaqfRM3HJocYHfdZ88GmFj2wqVCxUzm5MGvGNrWy | Flutter/Dart, Python, Go | Yes
 | [Suhas Sumukh](https://github.com/suhasasumukh) | [suhasasumukh](https://twitter.com/suhasasumukh) | GobKZxuB4nrFxZ9paLQpjGR9tjTFm4zMc9HBVohixhms | Python, JavaScript, TypeScript, Rust | No
+| [ankurg132](https://github.com/ankurg132)                       | [Ankur Gupta](https://x.com/ankurg132)                   | EResKtqr5bMbSJNZ97sBBkuxfVMRCRSkCBE9g11TbuTA | Python, Flutter, Dart, Kotlin, Solana                                       | Yes                 |
