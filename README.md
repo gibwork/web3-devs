@@ -151,3 +151,4 @@ Follow us on Twitter [@gib_work](https://twitter.com/gib_work)
 | [Amin](https://github.com/AminMemariani) | [cyberHonig](https://twitter.com/cyberHonig) | ApeGNaqfRM3HJocYHfdZ88GmFj2wqVCxUzm5MGvGNrWy | Flutter/Dart, Python, Go | Yes
 | [Suhas Sumukh](https://github.com/suhasasumukh) | [suhasasumukh](https://twitter.com/suhasasumukh) | GobKZxuB4nrFxZ9paLQpjGR9tjTFm4zMc9HBVohixhms | Python, JavaScript, TypeScript, Rust | No
 | [kasuba97](https://github.com/kasuba97) | [kasuba97](https://twitter.com/kasuba97) | ArYfwTPH3VWCPvcUya1aFKPpu9gckkPbqdMRDMDAthqu | Python, JavaScript, TypeScript, Rust,Java, React, Next, Solana, Node.js, ExpressJs | Yes
+| [ankurg132](https://github.com/ankurg132) | [ankurg132](https://twitter.com/ankurg132) | 3LXfBRusvC7c7bXb8ZbN1UZzNqyQcpvdapKc9Zbcw78g | Python, Flutter, Dart, React, Django, Flask, Solana | Yes
