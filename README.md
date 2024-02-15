@@ -10,7 +10,7 @@ Follow us on Twitter [@gib_work](https://twitter.com/gib_work)
 
 <p>Include a wallet that you're willing to share publicly and can receive airdrops.</p>
 
-what I am doing?
+
 | Github                                                       | Twitter                                                                                 | Wallet Address                               | Languages                                                                                                                                                 | Available for Hire |
 |--------------------------------------------------------------|-----------------------------------------------------------------------------------------| -------------------------------------------- |-----------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
 | [ez-krk](https://github.com/ez-krk)                    | [ez-krk](https://twitter.com/ez-krk)                                                | H37Zh3Hcu9N7vMqX8z2fAWXgsvpdT5VCvw55DwHzcBTm | Rust, Typescript, Python, Bash         
@@ -156,3 +156,4 @@ what I am doing?
 | [Aman-Singh-Kushwaha](https://github.com/Aman-Singh-Kushwaha) | [Aman_KSK](https://twitter.com/Aman_KSK)                                                | EBmFcasaJxZsQCfnwvhEUK4EHRibdcujeZXWG8JyrkHe | C++, Javascript, Typescript, ReactJS, NodeJS, Golang, GCP, Solana                                                                                        | Yes                 |
 | [Rosegakono](https://github.com/Rosegakono) | [r0ss3y](https://twitter.com/r0ss3y)                                                | tNB9j7mAtcyR2hZ5zHpGBMay3ZD8xLWVDDXsWPtPctS | Javascript, Typescript, ReactJS, NodeJS, Solana                                                                                        | Yes                 |
 | [Kelechi Kizito Ugwu](https://github.com/kelechikizito) | [kelechiikizito](https://twitter.com/kelechiikizito)                                                | 4y9MiSru7rL9fBaqQzZxbVrCasT9LYeMJAdHEHZNJCwT | Javascript, ReactJS, NodeJS, Documentation                                                                                        | Yes                 |
+| [Hasegawa Keisuke](https://github.com/kagypony) | [kelechiikizito](https://twitter.com/kagy)                                                | kagy9JhG2oVxyErv92tV3RVHwYzcfdw7EsdJcF9v8qU |  Go, Rust , Python, Javascript, Typescript, MongoDB, arbitrage                                                                                | Yes                 |
