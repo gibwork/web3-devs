@@ -10,7 +10,7 @@ Follow us on Twitter [@gib_work](https://twitter.com/gib_work)
 
 <p>Include a wallet that you're willing to share publicly and can receive airdrops.</p>
 
-
+what I am doing?
 | Github                                                       | Twitter                                                                                 | Wallet Address                               | Languages                                                                                                                                                 | Available for Hire |
 |--------------------------------------------------------------|-----------------------------------------------------------------------------------------| -------------------------------------------- |-----------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
 | [ez-krk](https://github.com/ez-krk)                    | [ez-krk](https://twitter.com/ez-krk)                                                | H37Zh3Hcu9N7vMqX8z2fAWXgsvpdT5VCvw55DwHzcBTm | Rust, Typescript, Python, Bash         
