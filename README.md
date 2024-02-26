@@ -162,3 +162,9 @@ Follow us on Twitter [@gib_work](https://twitter.com/gib_work)
 | [Aditya Yadav](https://github.com/dedomil) | [dedomil_](https://twitter.com/dedomil_)         | DuNKWq3a93BysBvKS2xR9hcJCVfmT494F2RiFM7jpt8b | JavaScript, Rust, Anchor, Node.js, React.js   | Yes                 |
 | [Bartick](https://github.com/bartick)                  | [Bartick](https://twitter.com/BartickM)                                        | 0x0BFb4abc6864e8EE3782C7Cc246b646E568b8631 | HTML, CSS, JavaScript, TypeScript, python, Java                                                                                                           | Yes                |
 | [Mzee](https://github.com/HarryTutor) | [karanja](https://twitter.com/mzee_wa_boma)         | BFxL6NWALWc3omJfuUBn8X2bLcE16Nq4Hma2S3CPmGcU | Html/CSS, Python, JS, PHP | Yes
+
+| [clintjeez](https://github.com/clintjeez) | [clintjeezz](https://twitter.com/clintjeezz) | 
+TypeScript, JavaScript, 
+ReactJS,
+ReactNative, 
+Rust,Solidity, Nodejs, supabase | 2EaVhLgAYWbYeJymqFp37bCvQsc2RTHuUCvD11YNv6Qw
