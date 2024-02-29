@@ -165,4 +165,4 @@ Follow us on Twitter [@gib_work](https://twitter.com/gib_work)
 | [clintjeez](https://github.com/clintjeez) | [clintjeezz](https://twitter.com/clintjeezz)| 2EaVhLgAYWbYeJymqFp37bCvQsc2RTHuUCvD11YNv6Qw |TypeScript, JavaScript, ReactJS,ReactNative, Rust,Solidity, Nodejs, supabase| Yes
 
 | [Magou226] (https://github.com/Magou226)  | [Ilboudo_Sidbewende_Charles_Magloire] (https://twitter.com/Stifly2)                        |  946QHWtfSw61uQn7pJMbrkPxZ78Fvqe7RMWbZKjMybCF | 
- Actually iam a new but i learnt Rust, Anchor, Solidity, Solang Solidity, HTML, CSS
+ Actually iam a new but i learnt Rust, Anchor, Solidity, Solang Solidity, HTML, CSS | Yes
