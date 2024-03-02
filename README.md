@@ -165,3 +165,4 @@ Follow us on Twitter [@gib_work](https://twitter.com/gib_work)
 | [clintjeez](https://github.com/clintjeez) | [clintjeezz](https://twitter.com/clintjeezz)| 2EaVhLgAYWbYeJymqFp37bCvQsc2RTHuUCvD11YNv6Qw |TypeScript, JavaScript, ReactJS,ReactNative, Rust,Solidity, Nodejs, supabase| Yes
 | [ChristianRincon](https://github.com/ChristianRincon) | [ch_m_rincon](https://twitter.com/ch_m_rincon)| H9zyLMMh2MKLCDKXcohaAU1NHFektv1H2qufVMFaeSqz | HTML/CSS PHP JavaScript Node.js Python Git SQL Java C# | Yes
 | [Derlys](https://github.com/Derlys) | [derlys](https://twitter.com/derlys_paola)| CvQf1w1T828bRqfD6fA1rWdCR4ybCsEr6vwHdYPTMfSr |TypeScript, JavaScript, Angular, Tailwind , CSS, HTML| Yes
+| [Samarth](https://github.com/SamarthSaxena10) | [Samarth](https://twitter.com/0_x_Sam)| 8cv1Cm1cbRzFz6S2eATcvtiAsqsfSX7tCb9GcEDGJWPK |TypeScript, JavaScript, React, Tailwind , CSS, MongoDB , Git , Rust , Solidity | Yes
