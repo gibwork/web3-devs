@@ -165,4 +165,5 @@ Follow us on Twitter [@gib_work](https://twitter.com/gib_work)
 | [clintjeez](https://github.com/clintjeez) | [clintjeezz](https://twitter.com/clintjeezz)| 2EaVhLgAYWbYeJymqFp37bCvQsc2RTHuUCvD11YNv6Qw |TypeScript, JavaScript, ReactJS,ReactNative, Rust,Solidity, Nodejs, supabase| Yes
 | [ChristianRincon](https://github.com/ChristianRincon) | [ch_m_rincon](https://twitter.com/ch_m_rincon)| H9zyLMMh2MKLCDKXcohaAU1NHFektv1H2qufVMFaeSqz | HTML/CSS PHP JavaScript Node.js Python Git SQL Java C# | Yes
 | [Derlys](https://github.com/Derlys) | [derlys](https://twitter.com/derlys_paola)| CvQf1w1T828bRqfD6fA1rWdCR4ybCsEr6vwHdYPTMfSr |TypeScript, JavaScript, Angular, Tailwind , CSS, HTML| Yes
+| [Vinay Badgujar](https://github.com/vinaybadgujar102) | [vinaybadgujar102](https://twitter.com/VinayBadgujar8)| ByZitq81RUZsWwe67YRvcbeDM5ZMKAu9L9o8oxu6u7s4 |TypeScript, JavaScript, React, Next, Tailwind , CSS, HTML| Yes
 | [Lemmy](https://github.com/Lemmynjash) | [lemmynjaria](https://twitter.com/lemmynjaria)| B1jUZXV9nEjeJ8DZbpnyPxzTrEobtbRZ1GeumagpgH1W |Android, Python, Java, Javascript, Typescript , CSS, HTML| Yes
