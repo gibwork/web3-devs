@@ -168,3 +168,4 @@ Follow us on Twitter [@gib_work](https://twitter.com/gib_work)
 | [Vinay Badgujar](https://github.com/vinaybadgujar102) | [vinaybadgujar102](https://twitter.com/VinayBadgujar8)| ByZitq81RUZsWwe67YRvcbeDM5ZMKAu9L9o8oxu6u7s4 |TypeScript, JavaScript, React, Next, Tailwind , CSS, HTML| Yes
 | [Lemmy](https://github.com/Lemmynjash) | [lemmynjaria](https://twitter.com/lemmynjaria)| B1jUZXV9nEjeJ8DZbpnyPxzTrEobtbRZ1GeumagpgH1W |Android, Python, Java, Javascript, Typescript , CSS, HTML| Yes
 | [Adarsh](https://github.com/lollol90) | [twtadarsh](https://twitter.com/twtadarsh)| 3c6gjZ8iJ1mkbXNHLYfvaYFaG4bVo58FmtdaeZLZSdVS |Go, Javascript, Docker, kubernates,Typescript,Nodejs| Yes
+| [Nero](https://github.com/AdwitM) | [nero__sensei](https://twitter.com/nero__sensei) | mjVqMEqT3RRNtC3xtx69PbKUTs6uj4Z3HbMsHTeH1jK | Javascript, Typescript, NodeJs, Python, Solidity | No
