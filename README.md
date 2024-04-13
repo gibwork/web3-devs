@@ -170,3 +170,4 @@ Follow us on Twitter [@gib_work](https://twitter.com/gib_work)
 | [Adarsh](https://github.com/lollol90) | [twtadarsh](https://twitter.com/twtadarsh)| 3c6gjZ8iJ1mkbXNHLYfvaYFaG4bVo58FmtdaeZLZSdVS |Go, Javascript, Docker, kubernates,Typescript,Nodejs| Yes
 | [Nero](https://github.com/AdwitM) | [nero__sensei](https://twitter.com/nero__sensei) | mjVqMEqT3RRNtC3xtx69PbKUTs6uj4Z3HbMsHTeH1jK | Javascript, Typescript, NodeJs, Python, Solidity | No
 | [Hari](https://github.com/hariFED) | [hariharan_W3](https://twitter.com/hariharan_W3) | 0x442b8Ba32A49C6B752DEf0650713c4a427D7eD6E | Javascript , Typescript, React, Tailwind, HTML, CSS, Nodejs| Yes
+| [Kyrylo](https://github.com/kyrylog) | [Kylogor](https://twitter.com/kylogor) | 43K4m8BgMF14vViwB6znWPnPbHYeySvGLUvynHaJvqLi | Javascript , Typescript, Nodejs, Solidity, Rust| Yes
