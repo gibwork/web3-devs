@@ -173,3 +173,4 @@ Follow us on Twitter [@gib_work](https://twitter.com/gib_work)
 | [SG](https://github.com/SG-733) | [SG](https://twitter.com/SG7331) | 9bSyH8tvYM8kfDsP7zjstd8ZULw6aqeFgFxWs5UbAaCB | Rust, Solidity , HTML ,CSS ,Python | Yes
 | [Kyrylo](https://github.com/kyrylog) | [Kylogor](https://twitter.com/kylogor) | 43K4m8BgMF14vViwB6znWPnPbHYeySvGLUvynHaJvqLi | Javascript , Typescript, Nodejs, Solidity, Rust| Yes
 | [bigchiano](https://github.com/bigchiano) | [bigchiano](https://twitter.com/bigchiano) | 3hdb9yfeiNFdyt2rLqc6d7fG3cByU8pejti2ubRC6VEq | Javascript , Typescript, Nodejs, Solidity, Rust, Subgraphs, Docker| Yes
+| [ancienthumans](https://github.com/ancienthumans) | [ancienthumansol](https://twitter.com/ancienthumansol) | 6MKN14g5oBknfqrBBow4mhVWpofr9572LAgv7R8XTkRD | Javascript , Typescript, HTML, CSS | Yes
