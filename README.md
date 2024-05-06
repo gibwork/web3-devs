@@ -174,3 +174,4 @@ Follow us on Twitter [@gib_work](https://twitter.com/gib_work)
 | [Kyrylo](https://github.com/kyrylog) | [Kylogor](https://twitter.com/kylogor) | 43K4m8BgMF14vViwB6znWPnPbHYeySvGLUvynHaJvqLi | Javascript , Typescript, Nodejs, Solidity, Rust| Yes
 | [bigchiano](https://github.com/bigchiano) | [bigchiano](https://twitter.com/bigchiano) | 3hdb9yfeiNFdyt2rLqc6d7fG3cByU8pejti2ubRC6VEq | Javascript , Typescript, Nodejs, Solidity, Rust, Subgraphs, Docker| Yes
 | [ancienthumans](https://github.com/ancienthumans) | [ancienthumansol](https://twitter.com/ancienthumansol) | 6MKN14g5oBknfqrBBow4mhVWpofr9572LAgv7R8XTkRD | Javascript , Typescript, HTML, CSS | Yes
+| [vishalsinghji](https://github.com/vishalsinghji) | [vishalkmr27](https://twitter.com/vishalkmr27) | wzhDXVoXHYGchzw5hxNgsbVecWTYU572gYfe8swyyHt | JavaScript, Java,Typescript, Python,React | Yes 
