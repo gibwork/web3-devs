@@ -177,6 +177,6 @@ Follow us on Twitter [@gib_work](https://twitter.com/gib_work)
 | [fedoras](https://github.com/fedorerd) | [0xFedoras](https://twitter.com/fedoras_) | 9YmsWjMYrHmYrTPjFmDk9rbjvsB4WvsS2ivztxuCg17e | Rust, Javascript, Typescript, HTML, CSS, Python | Yes
 | [tonystalker](https://github.com/tonystalker)          | [tonystalkerr](https://twitter.com/tonystalkerr)                                              |  2wMfzk5rbLMh3UYe25qSDYRaPPUkJU19kzFtFosPYbsu  | Rust, Javascript, Solidity,Golang
 | [abin](https://github.com/abinpanil)          | [abin](https://www.linkedin.com/in/abin-p-anil-45a67821b/)                                            |  0x99d9657c9dB74327020BE7f7f62BC3302fB5E5dF  | Javascript, TypeScript, Solidity
-
+| [stackedq](https://github.com/stackedq)          | [stackedq](https://twitter.com/stackedq)     |  0x4BeE1766B2d2265E31f7786A43d2679Ea6597345  | TypeScript, Go, React, Nextjs, Web3 | Yes
 
 
