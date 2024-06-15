@@ -179,4 +179,4 @@ Follow us on Twitter [@gib_work](https://twitter.com/gib_work)
 | [abin](https://github.com/abinpanil)          | [abin](https://www.linkedin.com/in/abin-p-anil-45a67821b/)                                            |  0x99d9657c9dB74327020BE7f7f62BC3302fB5E5dF  | Javascript, TypeScript, Solidity
 | [stackedq](https://github.com/stackedq)          | [stackedq](https://twitter.com/stackedq)     |  0x4BeE1766B2d2265E31f7786A43d2679Ea6597345  | TypeScript, Go, React, Nextjs, Web3 | Yes
 | [renzocabarios](https://github.com/renzocabarios)                    | [RenzoCabarios](https://x.com/RenzoCabarios)                                                | AsW4DmiUvPqHPgUkQ1yzaq2qkEZS3WnSQfCMH2PZM6j9 | Solidity, Next.js, Rust, Javascript, Mongodb, Tailwind         
-
+| [beautyfree](https://github.com/breautyfree)                | [netebe](https://twitter.com/netebe)                                          | 3RkWk4dDzVQtZiXpaeaS3DiXdVfcBEisWH9Znp5hJtwa | Javascript, TypeScript, Node.js, Solana, understand Rust/Anchor                                                                                             | Yes                |
