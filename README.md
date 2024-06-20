@@ -185,4 +185,3 @@ Follow us on Twitter [@gib_work](https://twitter.com/gib_work)
 | [arjunpotter17](https://github.com/arjunpotter17) | [Arjunpotter17](https://x.com/arjunpotter17) | 6Tr4BJQ1S4AkvR6jiahLUJAQ8etrNwjw69fu6T4Wq1HJ | NextJs, Rust, TypeScript, Anchor, tailwind, React | Yes
 | [Anmol](https://github.com/AnmolSirola) | [AnmolSirola](https://x.com/AnmolSirola) | 5zyx93d8GMmKrdKLqMykyQAm5EMMy2vC4GZbGnwQkcMX | Rust, Anchor, TypeScript, Node.js, Next.js, Tailwind, React.js | Yes
 | [shreenarayan](https://github.com/shreenarayan123) | [shreenarayan](https://x.com/Shreenarayan521) | 0x4B81cbfE8810BBa9412e28476962893463D0edDc | ReactJs, Javascript, TypeScript, Nodejs ,Expressjs, Html, css| Yes
-
