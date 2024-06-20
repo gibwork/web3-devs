@@ -183,5 +183,6 @@ Follow us on Twitter [@gib_work](https://twitter.com/gib_work)
 | [ritrafa](https://github.com/ritrafa) | [ritrafa](https://x.com/RitRafa) | 5TuH2kN4b2TM8jqJhvHVNybPQb47cKJKPC5EjiTNsyzQ | NextJs, Rust, TypeScript, XSLT | Yes 
 | [dharmik79](https://github.com/dharmik79) | [dharmik79](https://x.com/Dharmik79) | F5SiJHhHyAhjKj65u5Lzc2wX7R9MSAuUC9ieoFJyCQEj | NextJs, Rust, TypeScript, Javascript, React | Yes
 | [arjunpotter17](https://github.com/arjunpotter17) | [Arjunpotter17](https://x.com/arjunpotter17) | 6Tr4BJQ1S4AkvR6jiahLUJAQ8etrNwjw69fu6T4Wq1HJ | NextJs, Rust, TypeScript, Anchor, tailwind, React | Yes
-| [shreenarayan](https://github.com/shreenarayan123) | [shreenarayan](https://x.com/Shreenarayan521) | be9b0b4e3c91340c3454c4190ae210f651af0f1e4c45b5e64e04cb9f5fdc138d | ReactJs, Javascript, TypeScript, Nodejs | Yes
+| [Anmol](https://github.com/AnmolSirola) | [AnmolSirola](https://x.com/AnmolSirola) | 5zyx93d8GMmKrdKLqMykyQAm5EMMy2vC4GZbGnwQkcMX | Rust, Anchor, TypeScript, Node.js, Next.js, Tailwind, React.js | Yes
+| [shreenarayan](https://github.com/shreenarayan123) | [shreenarayan](https://x.com/Shreenarayan521) | 0x4B81cbfE8810BBa9412e28476962893463D0edDc | ReactJs, Javascript, TypeScript, Nodejs ,Expressjs, Html, css| Yes
 
