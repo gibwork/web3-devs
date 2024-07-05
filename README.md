@@ -186,4 +186,5 @@ Follow us on Twitter [@gib_work](https://twitter.com/gib_work)
 | [Anmol](https://github.com/AnmolSirola) | [AnmolSirola](https://x.com/AnmolSirola) | 5zyx93d8GMmKrdKLqMykyQAm5EMMy2vC4GZbGnwQkcMX | Rust, Anchor, TypeScript, Node.js, Next.js, Tailwind, React.js | Yes
 | [Poulav](https://github.com/PoulavBhowmick03) | [impoulav](https://x.com/impoulav) | 6FB4FcYjaLR9Td9YuUVvDSCUzbMXM2z1CF5F9GcTvTcv | Solidity, Rust, Anchor, Next.js, JavaScript, Typescript, Node.js, Tailwind, React.js | Yes
 | [Indranil](https://github.com/IndranilChutia) | [Tikuuuuu](https://x.com/TheekHuu) | BHksuRc4yrRmY4Q9FrtFHeSpCZncXfoaiRQrbj3cXaNj | Typescript, Javascript, Solidity, IPFS, Nextjs, Tailwind, Nodejs, Expressjs, PostgreSQL, MongoDB, Prisma | Yes
+| [Ashish2271](https://github.com/Ashish2271) | [@Ashishp7774](https://x.com/Ashishp7774) | H7gkTtcCboP3d2fQ6NDyi16axdvoc9AYVxx7E8LfBo7R | NextJs, Rust, TypeScript, Javascript, React | Yes
 
