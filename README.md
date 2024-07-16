@@ -189,4 +189,5 @@ Follow us on Twitter [@gib_work](https://twitter.com/gib_work)
 | [Ashish2271](https://github.com/Ashish2271) | [@Ashishp7774](https://x.com/Ashishp7774) | H7gkTtcCboP3d2fQ6NDyi16axdvoc9AYVxx7E8LfBo7R | NextJs, Rust, TypeScript, Javascript, React | Yes
 | [Amandeep](https://github.com/Amandeep404) | [@amandeep_404](https://twitter.com/amandeep_404) | 0x1f06D8e53eb2E92cb8e21Bd240FFA1999AA06F80 | Python, Numpy, Pytorch, Solidity | Yes
 | [Mohsin](https://github.com/0xoptimistic) | [@0xmum1](https://twitter.com/ixmum1) | 0xE37EBAA7E943503218Ebc79df83b7fB47D839A1a |  Typescript, Javascript, Solidity, IPFS, Nextjs, Tailwind, Nodejs, Expressjs, PostgreSQL, MongoDB, Solana | Yes
+| [Tuan Tran](https://github.com/TropicalDog17) | [@TropicalDog2](https://twitter.com/TropicalDog2) | 93TBVkEEdWEZkisNKwrXxTwePjJ28Y9jszftU9R5UTbm |  Typescript, Javascript, Solidity, Solana, Rust, Anchor, MongoDB, Redis, Go, React | Yes
 
