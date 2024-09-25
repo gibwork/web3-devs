@@ -192,4 +192,5 @@ Follow us on Twitter [@gib_work](https://twitter.com/gib_work)
 | [Tuan Tran](https://github.com/TropicalDog17) | [@TropicalDog2](https://twitter.com/TropicalDog2) | 93TBVkEEdWEZkisNKwrXxTwePjJ28Y9jszftU9R5UTbm |  Typescript, Javascript, Solidity, Solana, Rust, Anchor, MongoDB, Redis, Go, React | Yes
 | [JubrilKolade](https://github.com/JubrilKolade) | [@Jhubhreal](https://twitter.com/jhubhreal) | GpbLdg9XvRyGd7yh9dBrzDEjhLpkS68cwt1XT4h2sGhU |  Typescript, Javascript, Python, Solana, Rust, Anchor, MongoDB, NextJS, React | Yes
 | [AncientHuman](https://github.com/ancienthumans) | [@Jhubhreal](https://twitter.com/ancienthumansol) | 6MKN14g5oBknfqrBBow4mhVWpofr9572LAgv7R8XTkRD |  Next, React, Tailwdind, Typescript | Yes
+| [Lovegupta112](https://github.com/lovegupta112) | [@MeLovegupta](https://twitter.com/MeLovegupta) | HFtnCfMvpwV2F28jVE1gMc9eNycR5XWVhmqpyccQ564S | Typescript, React, Nextjs, Nodejs, express,(postgres+mongodb+orm), docker, Solana (anchor learning)  | Yes
 
